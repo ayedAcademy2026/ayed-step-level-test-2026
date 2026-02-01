@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>التسجيل بالدورة | STEP 2026</title>
+  <meta name="theme-color" content="#F6C945" />
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="icon" href="./assets/img/icon-192.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./assets/css/styles.css" />
+</head>
+<body>
+  <div class="topbar no-print">
+    <div class="container topbar-inner">
+      <div class="brand">
+        <img src="./assets/img/logo.svg" alt="شعار البرنامج" />
+        <div>
+          <div class="title">التسجيل بالدورة</div>
+          <div class="sub">موقع الأكاديمية الرسمي</div>
+        </div>
+      </div>
+      <button class="menu-btn" id="menuBtn" aria-label="القائمة">
+        <span class="menu-lines"><span></span><span></span><span></span></span>
+      </button>
+    </div>
+  </div>
+
+  <div class="overlay no-print" id="overlay"></div>
+  <aside class="drawer no-print" id="drawer">
+    <div class="dtop">
+      <div class="title">التنقل</div>
+      <button class="btn small ghost" onclick="document.getElementById('overlay').click()">إغلاق</button>
+    </div>
+    <a href="./index.html"><div>🏠</div><div><div style="font-weight:900">الرئيسية</div><small>تعريف + مشاركة</small></div></a>
+    <a href="./quiz.html"><div>🧪</div><div><div style="font-weight:900">ابدأ الاختبار</div><small>50 سؤال</small></div></a>
+    <a href="./results.html"><div>📊</div><div><div style="font-weight:900">النتائج والخطة</div><small>تحليل + جدول</small></div></a>
+    <a href="./bridge.html"><div>🎓</div><div><div style="font-weight:900">التسجيل بالدورة</div><small>رابط الأكاديمية</small></div></a>
+    <a href="./support.html"><div>🛟</div><div><div style="font-weight:900">الدعم</div><small>بلاغات</small></div></a>
+  </aside>
+
+  <main class="container section">
+    <div class="card">
+      <div class="badge"><span class="dot"></span><span>نصيحة مهمة</span></div>
+      <div class="h1">إذا تبي تمشي بخطة منظمة… انسخ ملخص خطتك وارفقه في نموذج التسجيل ✅</div>
+      <p class="lead">
+        بعد ما تخلص الاختبار وتطلع لك الخطة، انسخ الملخص (أو اطبعه PDF) وخله معك.
+        هذا يخلي فريق الأكاديمية يفهم مستواك ويضبط لك المسار بسرعة.
+      </p>
+
+      <div class="field">
+        <label>ملخص الخطة (للنسخ)</label>
+        <textarea id="snippet" rows="8" placeholder="إذا ما عندك نتيجة… روح صفحة النتائج وارجع هنا."></textarea>
+      </div>
+
+      <div class="actions no-print" style="margin-top:12px">
+        <button class="btn teal" id="btnCopy">نسخ الملخص</button>
+        <a class="btn primary" href="https://ayedacademy2026.github.io/ayed-step-academy2026/" target="_blank" rel="noopener">فتح موقع الدورة المكثفة</a>
+        <a class="btn ghost" href="./results.html">رجوع للنتائج</a>
+      </div>
+
+      <div class="help" style="margin-top:10px">ملاحظة: روابط/طرق دفع القنوات أو أي تحويلات تُدار داخل مواقع الدورات الرسمية فقط.</div>
+    </div>
+  </main>
+
+  <div class="toast no-print" id="toast"></div>
+  <div class="floating-toast no-print" id="floatingToast"><div class="t" id="floatingToastText"></div></div>
+
+  <button class="chat-fab no-print" id="chatFab" aria-label="مساعد البرنامج">💬</button>
+  <div class="chat-widget no-print" id="chatWidget" aria-label="المساعد">
+    <div class="chat-head">
+      <div class="left">
+        <div class="avatar">A</div>
+        <div>
+          <div style="font-weight:900">مساعد الأكاديمية</div>
+          <div class="small">متصل • جاري المساعدة</div>
+        </div>
+      </div>
+      <button class="chat-close" id="chatClose" aria-label="إغلاق">✕</button>
+    </div>
+    <div class="chat-body" id="chatBody"></div>
+    <div class="typing hidden" id="typing">... جاري الكتابة</div>
+    <div class="chat-foot">
+      <input id="chatInput" placeholder="اكتب سؤالك هنا…" />
+      <button class="btn small primary" id="chatSend">إرسال</button>
+    </div>
+  </div>
+
+  <script src="./assets/js/app.js"></script>
+  <script src="./assets/js/bridge.js"></script>
+</body>
+</html>

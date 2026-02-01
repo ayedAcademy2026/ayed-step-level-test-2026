@@ -1,0 +1,277 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ابدأ اختبار تحديد المستوى | STEP 2026</title>
+  <meta name="description" content="اختبار محاكي (50 سؤال) مع تصحيح فوري وتنقل كامل." />
+  <meta name="theme-color" content="#F6C945" />
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="icon" href="./assets/img/icon-192.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./assets/css/styles.css" />
+</head>
+<body>
+  <div class="topbar no-print">
+    <div class="container topbar-inner">
+      <div class="brand">
+        <img src="./assets/img/logo.svg" alt="شعار البرنامج" />
+        <div>
+          <div class="title">ابدأ الاختبار</div>
+          <div class="sub">50 سؤال • عشوائي • تصحيح فوري</div>
+        </div>
+      </div>
+      <button class="menu-btn" id="menuBtn" aria-label="القائمة">
+        <span class="menu-lines"><span></span><span></span><span></span></span>
+      </button>
+    </div>
+  </div>
+
+  <div class="overlay no-print" id="overlay"></div>
+  <aside class="drawer no-print" id="drawer">
+    <div class="dtop">
+      <div class="title">التنقل</div>
+      <button class="btn small ghost" onclick="document.getElementById('overlay').click()">إغلاق</button>
+    </div>
+    <a href="./index.html"><div>🏠</div><div><div style="font-weight:900">الرئيسية</div><small>تعريف + مشاركة</small></div></a>
+    <a href="./quiz.html"><div>🧪</div><div><div style="font-weight:900">ابدأ الاختبار</div><small>50 سؤال</small></div></a>
+    <a href="./results.html"><div>📊</div><div><div style="font-weight:900">النتائج والخطة</div><small>تحليل + جدول</small></div></a>
+    <a href="./bridge.html"><div>🎓</div><div><div style="font-weight:900">التسجيل بالدورة</div><small>رابط الأكاديمية</small></div></a>
+    <a href="./support.html"><div>🛟</div><div><div style="font-weight:900">الدعم</div><small>بلاغات</small></div></a>
+
+    <div class="card soft" style="margin-top:12px">
+      <div class="ftitle">ملاحظة</div>
+      <div class="help">الأسئلة هنا تدريب وتشخيص. لا يوجد “تسريبات” ولا محتوى غش—خلك على السليم 👍</div>
+    </div>
+  </aside>
+
+  <main class="container section">
+    <div class="card">
+      <h2>بياناتك (عشان تطلع لك خطة مناسبة)</h2>
+      <p class="help">كل البيانات تحفظ محليًا في جهازك فقط (LocalStorage).</p>
+
+      <form id="profileForm" class="form-grid">
+        <div class="field">
+          <label>اسمك</label>
+          <input id="name" placeholder="مثال: أحمد" required />
+        </div>
+        <div class="field">
+          <label>هدفك من STEP</label>
+          <select id="goal" required>
+            <option value="" selected disabled>اختر…</option>
+            <option>قبول جامعة / تحويل</option>
+            <option>ابتعاث / متطلبات جهة</option>
+            <option>ترقية درجة سابقة</option>
+            <option>تطوير مستوى عام</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label>منطقتك</label>
+          <select id="region" required>
+            <option value="" selected disabled>اختر…</option>
+            <option>الرياض</option><option>مكة</option><option>المدينة</option><option>الشرقية</option>
+            <option>القصيم</option><option>عسير</option><option>حائل</option><option>تبوك</option>
+            <option>جازان</option><option>نجران</option><option>الجوف</option><option>الباحة</option>
+            <option>الحدود الشمالية</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label>موعد اختبارك</label>
+          <select id="testWindow" required>
+            <option value="" selected disabled>اختر…</option>
+            <option value="24h">أقل من 24 ساعة</option>
+            <option value="3d">أقل من 3 أيام</option>
+            <option value="7d">خلال 7 أيام</option>
+            <option value="30d">خلال شهر</option>
+            <option value="na">لسى ما حجزت</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label>هل اختبرت STEP قبل؟</label>
+          <select id="tookBefore" required>
+            <option value="" selected disabled>اختر…</option>
+            <option value="no">لا</option>
+            <option value="yes">نعم</option>
+          </select>
+        </div>
+
+        <div class="field" id="prevScoreWrap" style="display:none">
+          <label>كم درجتك السابقة؟</label>
+          <select id="prevScore">
+            <option value="" selected disabled>اختر…</option>
+            <option>50-59</option><option>60-64</option><option>65-69</option>
+            <option>70-74</option><option>75-79</option><option>80-84</option><option>85+</option>
+          </select>
+        </div>
+
+        <div class="field" id="targetScoreWrap" style="display:none">
+          <label>كم درجتك المستهدفة؟</label>
+          <select id="targetScore">
+            <option value="" selected disabled>اختر…</option>
+            <option>60+</option><option>65+</option><option>70+</option>
+            <option>75+</option><option>80+</option><option>85+</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label>قد إيش تقدر تذاكر يوميًا؟</label>
+          <select id="dailyMinutes" required>
+            <option value="" selected disabled>اختر…</option>
+            <option value="15">15 دقيقة</option>
+            <option value="30">30 دقيقة</option>
+            <option value="45">45 دقيقة</option>
+            <option value="60">ساعة</option>
+            <option value="90">ساعة ونص</option>
+            <option value="120">ساعتين</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label>أفضل وقت للمذاكرة</label>
+          <select id="studyTime" required>
+            <option value="" selected disabled>اختر…</option>
+            <option>بعد الفجر</option>
+            <option>الصباح</option>
+            <option>بعد الظهر</option>
+            <option>المساء</option>
+            <option>قبل النوم</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label>مرحلتك</label>
+          <select id="stage" required>
+            <option value="" selected disabled>اختر…</option>
+            <option value="ثانوي">ثانوي</option>
+            <option value="جامعي">جامعي</option>
+            <option value="دراسات عليا">دراسات عليا</option>
+            <option value="متخرج">متخرج</option>
+            <option value="موظف">موظف</option>
+            <option value="أخرى">أخرى</option>
+          </select>
+        </div>
+
+        <div class="field" id="uniWrap" style="display:none">
+          <label>تفاصيل المرحلة (اختياري)</label>
+          <select id="uniDetail">
+            <option value="" selected>—</option>
+            <option>مستجد</option>
+            <option>سنة ثانية</option>
+            <option>سنة ثالثة</option>
+            <option>سنة رابعة+</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label>تخصصك/مسارك (اختياري)</label>
+          <input id="major" placeholder="مثال: هندسة / طب / إدارة…" />
+        </div>
+
+        <div class="field">
+          <label>طريقتك المفضلة بالمذاكرة</label>
+          <select id="mode" required>
+            <option value="" selected disabled>اختر…</option>
+            <option value="short">مقاطع قصيرة + تدريبات</option>
+            <option value="recorded">محاضرات مسجلة منظمة</option>
+            <option value="live">شرح مباشر (لايف)</option>
+            <option value="files">ملفات + كويزات</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label>أصعب قسم عندك (من وجهة نظرك)</label>
+          <select id="weakest" required>
+            <option value="" selected disabled>اختر…</option>
+            <option>Grammar</option>
+            <option>Vocabulary</option>
+            <option>Reading</option>
+            <option>Writing & Editing</option>
+            <option>ما أدري (خل الاختبار يقرر)</option>
+          </select>
+        </div>
+      </form>
+
+      <div class="actions no-print" style="margin-top:12px">
+        <button class="btn primary" id="btnStart">ابدأ الاختبار</button>
+        <a class="btn ghost" href="./index.html">رجوع</a>
+      </div>
+    </div>
+
+    <div class="section"></div>
+
+    <div class="quiz-layout" id="quizLayout" style="display:none">
+      <aside class="card soft">
+        <div class="ftitle">التقدم</div>
+        <div class="progress-wrap">
+          <div class="progress"><div class="bar" id="progressBar"></div></div>
+          <div class="small" style="margin-top:8px" id="progressText">0 / 50</div>
+        </div>
+
+        <div class="qnav" id="qnav"></div>
+
+        <div class="actions no-print" style="margin-top:12px">
+          <button class="btn small ghost" id="btnSaveExit">حفظ وخروج</button>
+          <button class="btn small teal" id="btnFinish">إنهاء الاختبار</button>
+        </div>
+
+        <div class="help" style="margin-top:10px">تقدر تعلم السؤال للمراجعة ⭐</div>
+      </aside>
+
+      <section class="card qbox">
+        <div class="qmeta">
+          <div class="tag" id="qTag">—</div>
+          <div class="actions no-print">
+            <button class="btn small flag-btn" id="btnFlag">⭐ للمراجعة</button>
+          </div>
+        </div>
+
+        <div class="qtext" id="qText">—</div>
+        <div class="options" id="options"></div>
+
+        <div class="auto" id="autoBox" style="display:none"></div>
+
+        <div class="qactions no-print">
+          <div class="left">
+            <button class="btn small ghost" id="btnPrev">السابق</button>
+            <button class="btn small ghost" id="btnNext">التالي</button>
+          </div>
+          <div class="right">
+            <button class="btn small teal" id="btnGoResults">النتائج</button>
+          </div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <div class="toast no-print" id="toast"></div>
+  <div class="floating-toast no-print" id="floatingToast"><div class="t" id="floatingToastText"></div></div>
+
+  <button class="chat-fab no-print" id="chatFab" aria-label="مساعد البرنامج">💬</button>
+  <div class="chat-widget no-print" id="chatWidget" aria-label="المساعد">
+    <div class="chat-head">
+      <div class="left">
+        <div class="avatar">A</div>
+        <div>
+          <div style="font-weight:900">مساعد الأكاديمية</div>
+          <div class="small">متصل • جاري المساعدة</div>
+        </div>
+      </div>
+      <button class="chat-close" id="chatClose" aria-label="إغلاق">✕</button>
+    </div>
+    <div class="chat-body" id="chatBody"></div>
+    <div class="typing hidden" id="typing">... جاري الكتابة</div>
+    <div class="chat-foot">
+      <input id="chatInput" placeholder="اكتب سؤالك هنا…" />
+      <button class="btn small primary" id="chatSend">إرسال</button>
+    </div>
+  </div>
+
+  <script src="./assets/js/app.js"></script>
+  <script src="./assets/js/quiz.js"></script>
+</body>
+</html>

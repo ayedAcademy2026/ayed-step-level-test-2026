@@ -1,0 +1,255 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>اختبار تحديد المستوى STEP 2026 | خطة مذاكرة جاهزة</title>
+  <meta name="description" content="اختبار تحديد مستوى مجاني (50 سؤال) + تحليل نقاط القوة والضعف + خطة مذاكرة يوم بيوم قابلة للمشاركة والطباعة." />
+  <meta name="theme-color" content="#F6C945" />
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="icon" href="./assets/img/icon-192.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./assets/css/styles.css" />
+</head>
+<body>
+  <div class="topbar no-print">
+    <div class="container topbar-inner">
+      <div class="brand">
+        <img src="./assets/img/logo.svg" alt="شعار البرنامج" />
+        <div>
+          <div class="title">اختبار تحديد المستوى STEP 2026</div>
+          <div class="sub">مجاني • منظم • يعطيك خطة مذاكرة واقعية</div>
+        </div>
+      </div>
+      <button class="menu-btn" id="menuBtn" aria-label="القائمة">
+        <span class="menu-lines"><span></span><span></span><span></span></span>
+      </button>
+    </div>
+  </div>
+
+  <div class="installbar no-print hidden" id="installBar">
+    <div class="row">
+      <div class="txt">ثبت البرنامج على جهازك (يشتغل كتطبيق) ✅</div>
+      <div class="actions">
+        <button class="btn small primary" id="btnInstall">تثبيت</button>
+        <button class="btn small ghost" id="btnHideInstall">إخفاء</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="overlay no-print" id="overlay"></div>
+  <aside class="drawer no-print" id="drawer">
+    <div class="dtop">
+      <div class="title">التنقل</div>
+      <button class="btn small ghost" id="chatCloseDrawer" onclick="document.getElementById('overlay').click()">إغلاق</button>
+    </div>
+    <a href="./index.html">
+      <div>🏠</div>
+      <div>
+        <div style="font-weight:900">الرئيسية</div>
+        <small>تعريف سريع + مشاركة</small>
+      </div>
+    </a>
+    <a href="./quiz.html">
+      <div>🧪</div>
+      <div>
+        <div style="font-weight:900">ابدأ الاختبار</div>
+        <small>50 سؤال مع تصحيح فوري</small>
+      </div>
+    </a>
+    <a href="./results.html">
+      <div>📊</div>
+      <div>
+        <div style="font-weight:900">النتائج والخطة</div>
+        <small>تحليل + جدول مذاكرة</small>
+      </div>
+    </a>
+    <a href="./bridge.html">
+      <div>🎓</div>
+      <div>
+        <div style="font-weight:900">التسجيل بالدورة</div>
+        <small>زر يفتح موقع الأكاديمية</small>
+      </div>
+    </a>
+    <a href="./support.html">
+      <div>🛟</div>
+      <div>
+        <div style="font-weight:900">الدعم</div>
+        <small>بلاغات وملاحظات</small>
+      </div>
+    </a>
+
+    <div class="card soft" style="margin-top:12px">
+      <div class="ftitle">إعدادات</div>
+      <div class="help">إشعارات النصائح (غير إلزامية):</div>
+      <label class="chip" style="margin-top:8px">
+        <input type="checkbox" id="toggleToasts" />
+        <span>تشغيل إشعارات النصائح</span>
+      </label>
+      <div class="help" style="margin-top:10px">ملاحظة: البرنامج لا يعرض “مشتريات” أو “نجاحات” وهمية. أي آراء/تجارب يجب أن تكون حقيقية حتى تكون الأمور نظيفة وواضحة 👌</div>
+    </div>
+  </aside>
+
+  <main class="container">
+    <section class="hero">
+      <div class="hero-grid">
+        <div class="card">
+          <div class="badge"><span class="dot"></span><span>نسخة 2026 • بنك أسئلة كبير • خطة مخصصة</span></div>
+          <div class="h1">اختبار يحدد مستواك… ثم يعطيك خطة مذاكرة “تمشيك” يوم بيوم ✅</div>
+          <p class="lead">
+            كثير طلاب يضيعون بين مصادر كثيرة: وين أبدأ؟ وش أراجع؟ وش أركز عليه؟
+            هنا الفكرة بسيطة: <b>تعبي بياناتك</b> → <b>تحل 50 سؤال</b> → <b>يطلع لك تحليل وخطة وجدول مذاكرة</b> جاهز للنسخ والطباعة.
+          </p>
+
+          <div class="actions no-print">
+            <a class="btn primary" href="./quiz.html">ابدأ الاختبار الآن</a>
+            <button class="btn teal" id="btnShareProgram">مشاركة البرنامج</button>
+            <a class="btn ghost" href="./results.html">شوف مثال الخطة</a>
+          </div>
+
+          <p class="small" style="margin-top:10px">"وَقُل رَّبِّ زِدْنِي عِلْمًا"</p>
+        </div>
+
+        <div class="card soft">
+          <div class="ftitle">وش بيطلع لك بالنهاية؟</div>
+          <div class="grid-3" style="margin-top:10px">
+            <div class="feature">
+              <div class="ftitle">تحليل واضح</div>
+              <div class="fdesc">نقاط قوة/ضعف حسب الأقسام + اقتراح تركيز سريع.</div>
+            </div>
+            <div class="feature">
+              <div class="ftitle">خطة يوم بيوم</div>
+              <div class="fdesc">جدول مذاكرة حسب وقتك وموعد اختبارك.</div>
+            </div>
+            <div class="feature">
+              <div class="ftitle">مشاركة سهلة</div>
+              <div class="fdesc">نص مشاركة جاهز (بدون روابط دورات) لنشر البرنامج.</div>
+            </div>
+          </div>
+
+          <div class="resume-bar no-print" id="resumeBar" style="display:none">
+            <div class="txt">عندك محاولة سابقة محفوظة… تبغى تكمل؟</div>
+            <div class="actions">
+              <a class="btn small teal" href="./quiz.html?resume=1">كمّل</a>
+              <button class="btn small ghost" id="btnClearProgress">حذف</button>
+            </div>
+          </div>
+
+          <div class="help">الاختبار هنا للتشخيص والتطوير. النتائج تقديرية وليست ضمانًا لدرجة محددة.</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="card">
+        <h2>مؤشرات رضا وتجارب</h2>
+        <p class="help">ملاحظة شفافة: الأمثلة التالية “قوالب” عرض فقط—استبدلها لاحقًا بآراء حقيقية موثّقة (نفس الشكل، محتوى مختلف).</p>
+        <div class="review-grid" style="margin-top:12px">
+          <div class="review">
+            <div class="name">شهد المالكي</div>
+            <div class="meta"><span class="stars">★★★★★</span> • تنظيم • هدوء</div>
+            <div class="text">الخطة خلتني أعرف وش أراجع اليوم… بدون زحمة مصادر.</div>
+          </div>
+          <div class="review">
+            <div class="name">تركي القحطاني</div>
+            <div class="meta"><span class="stars">★★★★★</span> • تصحيح فوري</div>
+            <div class="text">أكثر شيء فرق معي: التصحيح لحظيًا + شرح مختصر يوضح لي ليه غلطت.</div>
+          </div>
+          <div class="review">
+            <div class="name">منال التويجري</div>
+            <div class="meta"><span class="stars">★★★★★</span> • وضوح</div>
+            <div class="text">قبل كنت ألف… الحين عندي مسار: وش أركز عليه وكم يوم.</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="card">
+        <h2>الأسئلة الشائعة</h2>
+        <div class="faq" id="faq">
+          <div class="item">
+            <button type="button">هل الأسئلة تتغير كل مرة؟ <span>▾</span></button>
+            <div class="ans">نعم—كل محاولة تسحب 50 سؤال عشوائي من بنك كبير (مع توازن بين الأقسام).</div>
+          </div>
+          <div class="item">
+            <button type="button">هل أقدر أرجع لأي سؤال؟ <span>▾</span></button>
+            <div class="ans">أكيد. تقدر تتنقل من شبكة الأسئلة، وتعلّم السؤال للمراجعة.</div>
+          </div>
+          <div class="item">
+            <button type="button">هل الخطة قابلة للطباعة؟ <span>▾</span></button>
+            <div class="ans">نعم. في صفحة النتائج: طباعة/حفظ PDF.</div>
+          </div>
+          <div class="item">
+            <button type="button">ليش ما في سعر هنا؟ <span>▾</span></button>
+            <div class="ans">هذا البرنامج هدفه الثقة والتنظيم. التسجيل بالدورات يكون في مواقع الدورات الرسمية.</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section no-print">
+      <div class="card soft">
+        <h2>جاهز؟</h2>
+        <p class="lead">ابدأ الاختبار الآن وخلك صريح مع نفسك… أحسن من “أجلّس أخمّن مستواي” 👌</p>
+        <div class="actions">
+          <a class="btn primary" href="./quiz.html">ابدأ الاختبار</a>
+          <a class="btn ghost" href="./support.html">عندي ملاحظة</a>
+        </div>
+      </div>
+    </section>
+
+    <div class="footer">
+      <div class="small">© 2026 • برنامج تحديد مستوى STEP • يعمل على GitHub Pages (Static) بدون سيرفر.</div>
+    </div>
+  </main>
+
+  <div class="toast no-print" id="toast"></div>
+  <div class="floating-toast no-print" id="floatingToast"><div class="t" id="floatingToastText"></div></div>
+
+  <button class="chat-fab no-print" id="chatFab" aria-label="مساعد البرنامج">💬</button>
+  <div class="chat-widget no-print" id="chatWidget" aria-label="المساعد">
+    <div class="chat-head">
+      <div class="left">
+        <div class="avatar">A</div>
+        <div>
+          <div style="font-weight:900">مساعد الأكاديمية</div>
+          <div class="small">متصل • جاري المساعدة</div>
+        </div>
+      </div>
+      <button class="chat-close" id="chatClose" aria-label="إغلاق">✕</button>
+    </div>
+    <div class="chat-body" id="chatBody"></div>
+    <div class="typing hidden" id="typing">... جاري الكتابة</div>
+    <div class="chat-foot">
+      <input id="chatInput" placeholder="اكتب سؤالك هنا…" />
+      <button class="btn small primary" id="chatSend">إرسال</button>
+    </div>
+  </div>
+
+  <script src="./assets/js/app.js"></script>
+  <script>
+    // FAQ accordion
+    document.querySelectorAll('#faq .item button').forEach(btn=>{
+      btn.addEventListener('click', ()=> btn.parentElement.classList.toggle('open'));
+    });
+
+    // Resume bar
+    const state = localStorage.getItem('stepApp_quizState_v1');
+    const bar = document.getElementById('resumeBar');
+    const clearBtn = document.getElementById('btnClearProgress');
+    if(state && bar){
+      bar.style.display = 'flex';
+    }
+    if(clearBtn){
+      clearBtn.addEventListener('click', ()=>{
+        localStorage.removeItem('stepApp_quizState_v1');
+        localStorage.removeItem('stepApp_lastResult_v1');
+        bar.style.display='none';
+      });
+    }
+  </script>
+</body>
+</html>

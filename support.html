@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>الدعم | STEP 2026</title>
+  <meta name="theme-color" content="#F6C945" />
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="icon" href="./assets/img/icon-192.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./assets/css/styles.css" />
+</head>
+<body>
+  <div class="topbar no-print">
+    <div class="container topbar-inner">
+      <div class="brand">
+        <img src="./assets/img/logo.svg" alt="شعار البرنامج" />
+        <div>
+          <div class="title">الدعم</div>
+          <div class="sub">ملاحظات • بلاغات • اقتراحات</div>
+        </div>
+      </div>
+      <button class="menu-btn" id="menuBtn" aria-label="القائمة">
+        <span class="menu-lines"><span></span><span></span><span></span></span>
+      </button>
+    </div>
+  </div>
+
+  <div class="overlay no-print" id="overlay"></div>
+  <aside class="drawer no-print" id="drawer">
+    <div class="dtop">
+      <div class="title">التنقل</div>
+      <button class="btn small ghost" onclick="document.getElementById('overlay').click()">إغلاق</button>
+    </div>
+    <a href="./index.html"><div>🏠</div><div><div style="font-weight:900">الرئيسية</div><small>تعريف + مشاركة</small></div></a>
+    <a href="./quiz.html"><div>🧪</div><div><div style="font-weight:900">ابدأ الاختبار</div><small>50 سؤال</small></div></a>
+    <a href="./results.html"><div>📊</div><div><div style="font-weight:900">النتائج والخطة</div><small>تحليل + جدول</small></div></a>
+    <a href="./bridge.html"><div>🎓</div><div><div style="font-weight:900">التسجيل بالدورة</div><small>رابط الأكاديمية</small></div></a>
+    <a href="./support.html"><div>🛟</div><div><div style="font-weight:900">الدعم</div><small>بلاغات</small></div></a>
+  </aside>
+
+  <main class="container section">
+    <div class="card">
+      <h2>أرسل لنا ملاحظتك</h2>
+      <p class="help">هذه صفحة ثابتة. عند الإرسال ستظهر لك رسالة “تم الاستلام” + رقم تذكرة محفوظ في جهازك (للاطمئنان).</p>
+
+      <form id="supportForm" class="form-grid">
+        <div class="field">
+          <label>نوع الطلب</label>
+          <select id="type" required>
+            <option value="" selected disabled>اختر…</option>
+            <option>مشكلة تقنية</option>
+            <option>اقتراح تطوير</option>
+            <option>ملاحظة على سؤال</option>
+            <option>غير ذلك</option>
+          </select>
+        </div>
+        <div class="field">
+          <label>البريد (اختياري)</label>
+          <input id="email" placeholder="example@email.com" />
+        </div>
+        <div class="field" style="grid-column:1/-1">
+          <label>تفاصيل الرسالة</label>
+          <textarea id="message" rows="6" placeholder="اكتب التفاصيل هنا…" required></textarea>
+        </div>
+      </form>
+
+      <div class="actions no-print" style="margin-top:12px">
+        <button class="btn primary" id="btnSend">إرسال</button>
+        <a class="btn ghost" href="./index.html">رجوع</a>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="card soft hidden" id="sentBox">
+        <div class="badge"><span class="dot"></span><span>تم الاستلام</span></div>
+        <div class="h1">شكرًا لتواصلك 🤍</div>
+        <p class="lead">وصلتنا رسالتك، ورح يتم النظر فيها. هذا رقم تذكرتك:</p>
+        <div class="tag good" id="ticket">—</div>
+        <p class="help" style="margin-top:10px">ملاحظة: الرقم محفوظ في جهازك ضمن “السجل” هنا—للاطمئنان فقط.</p>
+      </div>
+    </div>
+
+    <div class="section">
+      <div class="card soft">
+        <h2>سجل التذاكر (محلي)</h2>
+        <div class="help">يعرض آخر تذاكر محفوظة في نفس الجهاز.</div>
+        <div class="table-wrap" style="margin-top:10px">
+          <table>
+            <thead><tr><th>الوقت</th><th>النوع</th><th>الرقم</th></tr></thead>
+            <tbody id="tickets"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <div class="toast no-print" id="toast"></div>
+  <div class="floating-toast no-print" id="floatingToast"><div class="t" id="floatingToastText"></div></div>
+
+  <button class="chat-fab no-print" id="chatFab" aria-label="مساعد البرنامج">💬</button>
+  <div class="chat-widget no-print" id="chatWidget" aria-label="المساعد">
+    <div class="chat-head">
+      <div class="left">
+        <div class="avatar">A</div>
+        <div>
+          <div style="font-weight:900">مساعد الأكاديمية</div>
+          <div class="small">متصل • جاري المساعدة</div>
+        </div>
+      </div>
+      <button class="chat-close" id="chatClose" aria-label="إغلاق">✕</button>
+    </div>
+    <div class="chat-body" id="chatBody"></div>
+    <div class="typing hidden" id="typing">... جاري الكتابة</div>
+    <div class="chat-foot">
+      <input id="chatInput" placeholder="اكتب سؤالك هنا…" />
+      <button class="btn small primary" id="chatSend">إرسال</button>
+    </div>
+  </div>
+
+  <script src="./assets/js/app.js"></script>
+  <script src="./assets/js/support.js"></script>
+</body>
+</html>

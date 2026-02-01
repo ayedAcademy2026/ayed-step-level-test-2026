@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>النتائج والخطة | STEP 2026</title>
+  <meta name="description" content="تحليل الاختبار + خطة مذاكرة يوم بيوم + مشاركة وطباعة PDF." />
+  <meta name="theme-color" content="#F6C945" />
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="icon" href="./assets/img/icon-192.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./assets/css/styles.css" />
+</head>
+<body>
+  <div class="topbar no-print">
+    <div class="container topbar-inner">
+      <div class="brand">
+        <img src="./assets/img/logo.svg" alt="شعار البرنامج" />
+        <div>
+          <div class="title">النتائج والخطة</div>
+          <div class="sub">تحليل + جدول مذاكرة</div>
+        </div>
+      </div>
+      <button class="menu-btn" id="menuBtn" aria-label="القائمة">
+        <span class="menu-lines"><span></span><span></span><span></span></span>
+      </button>
+    </div>
+  </div>
+
+  <div class="overlay no-print" id="overlay"></div>
+  <aside class="drawer no-print" id="drawer">
+    <div class="dtop">
+      <div class="title">التنقل</div>
+      <button class="btn small ghost" onclick="document.getElementById('overlay').click()">إغلاق</button>
+    </div>
+    <a href="./index.html"><div>🏠</div><div><div style="font-weight:900">الرئيسية</div><small>تعريف + مشاركة</small></div></a>
+    <a href="./quiz.html"><div>🧪</div><div><div style="font-weight:900">ابدأ الاختبار</div><small>50 سؤال</small></div></a>
+    <a href="./results.html"><div>📊</div><div><div style="font-weight:900">النتائج والخطة</div><small>تحليل + جدول</small></div></a>
+    <a href="./bridge.html"><div>🎓</div><div><div style="font-weight:900">التسجيل بالدورة</div><small>رابط الأكاديمية</small></div></a>
+    <a href="./support.html"><div>🛟</div><div><div style="font-weight:900">الدعم</div><small>بلاغات</small></div></a>
+
+    <div class="card soft" style="margin-top:12px">
+      <div class="ftitle">تنقل سريع</div>
+      <div class="actions">
+        <a class="btn small ghost" href="#analysis">التحليل</a>
+        <a class="btn small ghost" href="#plan">الخطة</a>
+        <a class="btn small ghost" href="#share">المشاركة</a>
+        <a class="btn small ghost" href="#next">الخطوة التالية</a>
+      </div>
+    </div>
+  </aside>
+
+  <main class="container section">
+    <div class="results-hero">
+      <div class="card" id="emptyState">
+        <div class="badge"><span class="dot"></span><span>لا توجد نتيجة محفوظة</span></div>
+        <div class="h1">ما عندنا نتيجة لسه</div>
+        <p class="lead">ابدأ الاختبار أول، وبعدها ترجع هنا تلقى التحليل والخطة جاهزة.</p>
+        <div class="actions no-print">
+          <a class="btn primary" href="./quiz.html">ابدأ الاختبار</a>
+          <a class="btn ghost" href="./index.html">الرئيسية</a>
+        </div>
+      </div>
+
+      <div class="card" id="summaryCard" style="display:none">
+        <div class="badge"><span class="dot"></span><span id="sumLine">—</span></div>
+        <div class="h1" id="greet">—</div>
+        <p class="lead" id="sumText">—</p>
+
+        <div class="kpis">
+          <div class="kpi"><div class="k">نسبة الإجابة الصحيحة</div><div class="v" id="pct">—</div></div>
+          <div class="kpi"><div class="k">تقدير تقريبي</div><div class="v" id="est">—</div></div>
+        </div>
+
+        <div class="actions no-print" style="margin-top:12px">
+          <button class="btn teal" id="btnPrint">طباعة/حفظ PDF</button>
+          <button class="btn ghost" id="btnCopyPlan">نسخ الخطة</button>
+        </div>
+
+        <div class="print-note" style="margin-top:12px">
+          للطباعة كـ PDF: اضغط الزر → اختر <b>Save as PDF</b> ✅
+        </div>
+      </div>
+    </div>
+
+    <div class="section" id="analysis" style="display:none">
+      <div class="card">
+        <h2>تحليل الأداء</h2>
+        <div id="bars"></div>
+        <div class="help">التقدير تقريبي للتوجيه فقط (مو وعد بدرجة).</div>
+      </div>
+    </div>
+
+    <div class="section" id="plan" style="display:none">
+      <div class="card">
+        <h2>جدول المذاكرة (يوم بيوم)</h2>
+        <p class="help" id="planMeta">—</p>
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th>اليوم</th><th>المهام</th><th>المدة</th></tr></thead>
+            <tbody id="planRows"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <div class="section" id="share" style="display:none">
+      <div class="card">
+        <h2>مشاركة البرنامج</h2>
+        <p class="help">مشاركة الخطة هنا تركّز على نشر البرنامج نفسه (بدون روابط دورات).</p>
+        <div class="field">
+          <label>نص مشاركة جاهز</label>
+          <textarea id="shareText" rows="7"></textarea>
+        </div>
+        <div class="actions no-print" style="margin-top:12px">
+          <button class="btn primary" id="btnShare">مشاركة</button>
+          <button class="btn ghost" id="btnCopyShare">نسخ النص</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="section no-print" id="next" style="display:none">
+      <div class="card soft">
+        <h2>الخطوة التالية</h2>
+        <p class="lead">لو تبغى تمشي بخطة منظمة داخل برنامج الدورة المكثفة… افتح الصفحة التالية.</p>
+        <div class="actions">
+          <a class="btn primary" href="./bridge.html">التسجيل بالدورة</a>
+          <a class="btn ghost" href="./quiz.html">إعادة الاختبار</a>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <div class="toast no-print" id="toast"></div>
+  <div class="floating-toast no-print" id="floatingToast"><div class="t" id="floatingToastText"></div></div>
+
+  <button class="chat-fab no-print" id="chatFab" aria-label="مساعد البرنامج">💬</button>
+  <div class="chat-widget no-print" id="chatWidget" aria-label="المساعد">
+    <div class="chat-head">
+      <div class="left">
+        <div class="avatar">A</div>
+        <div>
+          <div style="font-weight:900">مساعد الأكاديمية</div>
+          <div class="small">متصل • جاري المساعدة</div>
+        </div>
+      </div>
+      <button class="chat-close" id="chatClose" aria-label="إغلاق">✕</button>
+    </div>
+    <div class="chat-body" id="chatBody"></div>
+    <div class="typing hidden" id="typing">... جاري الكتابة</div>
+    <div class="chat-foot">
+      <input id="chatInput" placeholder="اكتب سؤالك هنا…" />
+      <button class="btn small primary" id="chatSend">إرسال</button>
+    </div>
+  </div>
+
+  <script src="./assets/js/app.js"></script>
+  <script src="./assets/js/results.js"></script>
+</body>
+</html>
