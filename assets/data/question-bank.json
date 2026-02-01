@@ -1,0 +1,4206 @@
+{
+  "version": "2026.1",
+  "count": 300,
+  "questions": [
+    {
+      "id": "G001",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G002",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G003",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G004",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G005",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G006",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G007",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G008",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G009",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G010",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G011",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G012",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G013",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G014",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G015",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G016",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G017",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G018",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G019",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G020",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G021",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G022",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G023",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G024",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G025",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G026",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G027",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G028",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G029",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G030",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G031",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G032",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G033",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G034",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G035",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G036",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G037",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G038",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G039",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G040",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G041",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G042",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G043",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G044",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G045",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G046",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G047",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G048",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G049",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G050",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G051",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G052",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G053",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G054",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G055",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G056",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G057",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G058",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G059",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G060",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G061",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G062",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G063",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G064",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G065",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G066",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G067",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G068",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G069",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G070",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G071",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G072",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G073",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G074",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G075",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G076",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G077",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G078",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G079",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G080",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G081",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G082",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G083",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G084",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G085",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G086",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G087",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G088",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G089",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G090",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G091",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G092",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G093",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G094",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G095",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G096",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G097",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G098",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G099",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G100",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G101",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G102",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G103",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G104",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G105",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G106",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G107",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G108",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G109",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G110",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G111",
+      "section": "Grammar",
+      "level": "Hard",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G112",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G113",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G114",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G115",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G116",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "G117",
+      "section": "Grammar",
+      "level": "Medium",
+      "prompt": "Choose the correct option:\nIf I ___ enough time, I will finish the report.",
+      "options": [
+        "have",
+        "had",
+        "having",
+        "has"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ بما إن الجملة فيها (will) فهذه غالبًا شرط نوع أول: If + present simple → will."
+    },
+    {
+      "id": "G118",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf she ___ earlier, she would catch the bus.",
+      "options": [
+        "leaves",
+        "left",
+        "will leave",
+        "has left"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ هنا (would) معناها شرط نوع ثاني: If + past simple → would."
+    },
+    {
+      "id": "G119",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf they ___ studied, they would have passed.",
+      "options": [
+        "study",
+        "studied",
+        "had studied",
+        "have studied"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ شرط نوع ثالث: If + had + V3 → would have + V3."
+    },
+    {
+      "id": "G120",
+      "section": "Grammar",
+      "level": "Easy",
+      "prompt": "Choose the correct option:\nIf it rains, we ___ at home.",
+      "options": [
+        "stay",
+        "stayed",
+        "would stay",
+        "staying"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ شرط نوع أول: If + present → base verb."
+    },
+    {
+      "id": "V001",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nHe felt ___ after a long day of studying.",
+      "options": [
+        "exhausted",
+        "wealthy",
+        "ancient",
+        "shallow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ exhausted = مرهق."
+    },
+    {
+      "id": "V002",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe manager tried to ___ the conflict between the teams.",
+      "options": [
+        "resolve",
+        "repeat",
+        "decorate",
+        "borrow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ resolve = يحل."
+    },
+    {
+      "id": "V003",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nThe solution was ___ for most students.",
+      "options": [
+        "obvious",
+        "invisible",
+        "random",
+        "dangerous"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ obvious = واضح."
+    },
+    {
+      "id": "V004",
+      "section": "Vocabulary",
+      "level": "Hard",
+      "prompt": "Choose the best word:\nThe author uses examples to ___ his main point.",
+      "options": [
+        "support",
+        "remove",
+        "forget",
+        "damage"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ support = يدعم."
+    },
+    {
+      "id": "V005",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe teacher asked students to ___ their answers with evidence.",
+      "options": [
+        "justify",
+        "avoid",
+        "print",
+        "celebrate"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ justify = يبرر/يدعم."
+    },
+    {
+      "id": "V006",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe manager tried to ___ the conflict between the teams.",
+      "options": [
+        "resolve",
+        "repeat",
+        "decorate",
+        "borrow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ resolve = يحل."
+    },
+    {
+      "id": "V007",
+      "section": "Vocabulary",
+      "level": "Hard",
+      "prompt": "Choose the best word:\nThe city has a ___ climate, so winters are not very cold.",
+      "options": [
+        "mild",
+        "violent",
+        "empty",
+        "narrow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ mild = معتدل."
+    },
+    {
+      "id": "V008",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe results were ___ because the sample size was too small.",
+      "options": [
+        "reliable",
+        "conclusive",
+        "uncertain",
+        "remarkable"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ السياق يقول العينة صغيرة → النتائج غير مؤكدة = uncertain."
+    },
+    {
+      "id": "V009",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe solution was ___ for most students.",
+      "options": [
+        "obvious",
+        "invisible",
+        "random",
+        "dangerous"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ obvious = واضح."
+    },
+    {
+      "id": "V010",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe company decided to ___ its services to new regions.",
+      "options": [
+        "expand",
+        "reduce",
+        "delay",
+        "ignore"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ expand = يتوسع."
+    },
+    {
+      "id": "V011",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe manager tried to ___ the conflict between the teams.",
+      "options": [
+        "resolve",
+        "repeat",
+        "decorate",
+        "borrow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ resolve = يحل."
+    },
+    {
+      "id": "V012",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nThe teacher asked students to ___ their answers with evidence.",
+      "options": [
+        "justify",
+        "avoid",
+        "print",
+        "celebrate"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ justify = يبرر/يدعم."
+    },
+    {
+      "id": "V013",
+      "section": "Vocabulary",
+      "level": "Hard",
+      "prompt": "Choose the best word:\nThe city has a ___ climate, so winters are not very cold.",
+      "options": [
+        "mild",
+        "violent",
+        "empty",
+        "narrow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ mild = معتدل."
+    },
+    {
+      "id": "V014",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nThe teacher asked students to ___ their answers with evidence.",
+      "options": [
+        "justify",
+        "avoid",
+        "print",
+        "celebrate"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ justify = يبرر/يدعم."
+    },
+    {
+      "id": "V015",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe author uses examples to ___ his main point.",
+      "options": [
+        "support",
+        "remove",
+        "forget",
+        "damage"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ support = يدعم."
+    },
+    {
+      "id": "V016",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nThe solution was ___ for most students.",
+      "options": [
+        "obvious",
+        "invisible",
+        "random",
+        "dangerous"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ obvious = واضح."
+    },
+    {
+      "id": "V017",
+      "section": "Vocabulary",
+      "level": "Hard",
+      "prompt": "Choose the best word:\nThe scientist proposed a new ___ to test the theory.",
+      "options": [
+        "method",
+        "memory",
+        "holiday",
+        "garden"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ method = طريقة."
+    },
+    {
+      "id": "V018",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nThe city has a ___ climate, so winters are not very cold.",
+      "options": [
+        "mild",
+        "violent",
+        "empty",
+        "narrow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ mild = معتدل."
+    },
+    {
+      "id": "V019",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nThe teacher asked students to ___ their answers with evidence.",
+      "options": [
+        "justify",
+        "avoid",
+        "print",
+        "celebrate"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ justify = يبرر/يدعم."
+    },
+    {
+      "id": "V020",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nThe company decided to ___ its services to new regions.",
+      "options": [
+        "expand",
+        "reduce",
+        "delay",
+        "ignore"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ expand = يتوسع."
+    },
+    {
+      "id": "V021",
+      "section": "Vocabulary",
+      "level": "Hard",
+      "prompt": "Choose the best word:\nThe teacher asked students to ___ their answers with evidence.",
+      "options": [
+        "justify",
+        "avoid",
+        "print",
+        "celebrate"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ justify = يبرر/يدعم."
+    },
+    {
+      "id": "V022",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nThe manager tried to ___ the conflict between the teams.",
+      "options": [
+        "resolve",
+        "repeat",
+        "decorate",
+        "borrow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ resolve = يحل."
+    },
+    {
+      "id": "V023",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nHe felt ___ after a long day of studying.",
+      "options": [
+        "exhausted",
+        "wealthy",
+        "ancient",
+        "shallow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ exhausted = مرهق."
+    },
+    {
+      "id": "V024",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nThe scientist proposed a new ___ to test the theory.",
+      "options": [
+        "method",
+        "memory",
+        "holiday",
+        "garden"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ method = طريقة."
+    },
+    {
+      "id": "V025",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nHe felt ___ after a long day of studying.",
+      "options": [
+        "exhausted",
+        "wealthy",
+        "ancient",
+        "shallow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ exhausted = مرهق."
+    },
+    {
+      "id": "V026",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe manager tried to ___ the conflict between the teams.",
+      "options": [
+        "resolve",
+        "repeat",
+        "decorate",
+        "borrow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ resolve = يحل."
+    },
+    {
+      "id": "V027",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nThe solution was ___ for most students.",
+      "options": [
+        "obvious",
+        "invisible",
+        "random",
+        "dangerous"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ obvious = واضح."
+    },
+    {
+      "id": "V028",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe results were ___ because the sample size was too small.",
+      "options": [
+        "reliable",
+        "conclusive",
+        "uncertain",
+        "remarkable"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ السياق يقول العينة صغيرة → النتائج غير مؤكدة = uncertain."
+    },
+    {
+      "id": "V029",
+      "section": "Vocabulary",
+      "level": "Hard",
+      "prompt": "Choose the best word:\nHe felt ___ after a long day of studying.",
+      "options": [
+        "exhausted",
+        "wealthy",
+        "ancient",
+        "shallow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ exhausted = مرهق."
+    },
+    {
+      "id": "V030",
+      "section": "Vocabulary",
+      "level": "Hard",
+      "prompt": "Choose the best word:\nThe teacher asked students to ___ their answers with evidence.",
+      "options": [
+        "justify",
+        "avoid",
+        "print",
+        "celebrate"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ justify = يبرر/يدعم."
+    },
+    {
+      "id": "V031",
+      "section": "Vocabulary",
+      "level": "Hard",
+      "prompt": "Choose the best word:\nShe was ___ to finish the task before the deadline.",
+      "options": [
+        "determined",
+        "confused",
+        "careless",
+        "silent"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ determined = مصممة."
+    },
+    {
+      "id": "V032",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe scientist proposed a new ___ to test the theory.",
+      "options": [
+        "method",
+        "memory",
+        "holiday",
+        "garden"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ method = طريقة."
+    },
+    {
+      "id": "V033",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nHe felt ___ after a long day of studying.",
+      "options": [
+        "exhausted",
+        "wealthy",
+        "ancient",
+        "shallow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ exhausted = مرهق."
+    },
+    {
+      "id": "V034",
+      "section": "Vocabulary",
+      "level": "Hard",
+      "prompt": "Choose the best word:\nHe felt ___ after a long day of studying.",
+      "options": [
+        "exhausted",
+        "wealthy",
+        "ancient",
+        "shallow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ exhausted = مرهق."
+    },
+    {
+      "id": "V035",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe manager tried to ___ the conflict between the teams.",
+      "options": [
+        "resolve",
+        "repeat",
+        "decorate",
+        "borrow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ resolve = يحل."
+    },
+    {
+      "id": "V036",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe company decided to ___ its services to new regions.",
+      "options": [
+        "expand",
+        "reduce",
+        "delay",
+        "ignore"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ expand = يتوسع."
+    },
+    {
+      "id": "V037",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nShe was ___ to finish the task before the deadline.",
+      "options": [
+        "determined",
+        "confused",
+        "careless",
+        "silent"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ determined = مصممة."
+    },
+    {
+      "id": "V038",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nHe felt ___ after a long day of studying.",
+      "options": [
+        "exhausted",
+        "wealthy",
+        "ancient",
+        "shallow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ exhausted = مرهق."
+    },
+    {
+      "id": "V039",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe manager tried to ___ the conflict between the teams.",
+      "options": [
+        "resolve",
+        "repeat",
+        "decorate",
+        "borrow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ resolve = يحل."
+    },
+    {
+      "id": "V040",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nThe city has a ___ climate, so winters are not very cold.",
+      "options": [
+        "mild",
+        "violent",
+        "empty",
+        "narrow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ mild = معتدل."
+    },
+    {
+      "id": "V041",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nThe manager tried to ___ the conflict between the teams.",
+      "options": [
+        "resolve",
+        "repeat",
+        "decorate",
+        "borrow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ resolve = يحل."
+    },
+    {
+      "id": "V042",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nThe city has a ___ climate, so winters are not very cold.",
+      "options": [
+        "mild",
+        "violent",
+        "empty",
+        "narrow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ mild = معتدل."
+    },
+    {
+      "id": "V043",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe company decided to ___ its services to new regions.",
+      "options": [
+        "expand",
+        "reduce",
+        "delay",
+        "ignore"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ expand = يتوسع."
+    },
+    {
+      "id": "V044",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nThe company decided to ___ its services to new regions.",
+      "options": [
+        "expand",
+        "reduce",
+        "delay",
+        "ignore"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ expand = يتوسع."
+    },
+    {
+      "id": "V045",
+      "section": "Vocabulary",
+      "level": "Hard",
+      "prompt": "Choose the best word:\nThe solution was ___ for most students.",
+      "options": [
+        "obvious",
+        "invisible",
+        "random",
+        "dangerous"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ obvious = واضح."
+    },
+    {
+      "id": "V046",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nThe solution was ___ for most students.",
+      "options": [
+        "obvious",
+        "invisible",
+        "random",
+        "dangerous"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ obvious = واضح."
+    },
+    {
+      "id": "V047",
+      "section": "Vocabulary",
+      "level": "Hard",
+      "prompt": "Choose the best word:\nThe results were ___ because the sample size was too small.",
+      "options": [
+        "reliable",
+        "conclusive",
+        "uncertain",
+        "remarkable"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ السياق يقول العينة صغيرة → النتائج غير مؤكدة = uncertain."
+    },
+    {
+      "id": "V048",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe teacher asked students to ___ their answers with evidence.",
+      "options": [
+        "justify",
+        "avoid",
+        "print",
+        "celebrate"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ justify = يبرر/يدعم."
+    },
+    {
+      "id": "V049",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe author uses examples to ___ his main point.",
+      "options": [
+        "support",
+        "remove",
+        "forget",
+        "damage"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ support = يدعم."
+    },
+    {
+      "id": "V050",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nThe solution was ___ for most students.",
+      "options": [
+        "obvious",
+        "invisible",
+        "random",
+        "dangerous"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ obvious = واضح."
+    },
+    {
+      "id": "V051",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe teacher asked students to ___ their answers with evidence.",
+      "options": [
+        "justify",
+        "avoid",
+        "print",
+        "celebrate"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ justify = يبرر/يدعم."
+    },
+    {
+      "id": "V052",
+      "section": "Vocabulary",
+      "level": "Hard",
+      "prompt": "Choose the best word:\nHe felt ___ after a long day of studying.",
+      "options": [
+        "exhausted",
+        "wealthy",
+        "ancient",
+        "shallow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ exhausted = مرهق."
+    },
+    {
+      "id": "V053",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nShe was ___ to finish the task before the deadline.",
+      "options": [
+        "determined",
+        "confused",
+        "careless",
+        "silent"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ determined = مصممة."
+    },
+    {
+      "id": "V054",
+      "section": "Vocabulary",
+      "level": "Hard",
+      "prompt": "Choose the best word:\nHe felt ___ after a long day of studying.",
+      "options": [
+        "exhausted",
+        "wealthy",
+        "ancient",
+        "shallow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ exhausted = مرهق."
+    },
+    {
+      "id": "V055",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe scientist proposed a new ___ to test the theory.",
+      "options": [
+        "method",
+        "memory",
+        "holiday",
+        "garden"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ method = طريقة."
+    },
+    {
+      "id": "V056",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nHe felt ___ after a long day of studying.",
+      "options": [
+        "exhausted",
+        "wealthy",
+        "ancient",
+        "shallow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ exhausted = مرهق."
+    },
+    {
+      "id": "V057",
+      "section": "Vocabulary",
+      "level": "Hard",
+      "prompt": "Choose the best word:\nThe teacher asked students to ___ their answers with evidence.",
+      "options": [
+        "justify",
+        "avoid",
+        "print",
+        "celebrate"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ justify = يبرر/يدعم."
+    },
+    {
+      "id": "V058",
+      "section": "Vocabulary",
+      "level": "Hard",
+      "prompt": "Choose the best word:\nThe scientist proposed a new ___ to test the theory.",
+      "options": [
+        "method",
+        "memory",
+        "holiday",
+        "garden"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ method = طريقة."
+    },
+    {
+      "id": "V059",
+      "section": "Vocabulary",
+      "level": "Hard",
+      "prompt": "Choose the best word:\nThe company decided to ___ its services to new regions.",
+      "options": [
+        "expand",
+        "reduce",
+        "delay",
+        "ignore"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ expand = يتوسع."
+    },
+    {
+      "id": "V060",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nThe city has a ___ climate, so winters are not very cold.",
+      "options": [
+        "mild",
+        "violent",
+        "empty",
+        "narrow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ mild = معتدل."
+    },
+    {
+      "id": "V061",
+      "section": "Vocabulary",
+      "level": "Hard",
+      "prompt": "Choose the best word:\nThe scientist proposed a new ___ to test the theory.",
+      "options": [
+        "method",
+        "memory",
+        "holiday",
+        "garden"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ method = طريقة."
+    },
+    {
+      "id": "V062",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nShe was ___ to finish the task before the deadline.",
+      "options": [
+        "determined",
+        "confused",
+        "careless",
+        "silent"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ determined = مصممة."
+    },
+    {
+      "id": "V063",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nThe manager tried to ___ the conflict between the teams.",
+      "options": [
+        "resolve",
+        "repeat",
+        "decorate",
+        "borrow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ resolve = يحل."
+    },
+    {
+      "id": "V064",
+      "section": "Vocabulary",
+      "level": "Hard",
+      "prompt": "Choose the best word:\nThe teacher asked students to ___ their answers with evidence.",
+      "options": [
+        "justify",
+        "avoid",
+        "print",
+        "celebrate"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ justify = يبرر/يدعم."
+    },
+    {
+      "id": "V065",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe scientist proposed a new ___ to test the theory.",
+      "options": [
+        "method",
+        "memory",
+        "holiday",
+        "garden"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ method = طريقة."
+    },
+    {
+      "id": "V066",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nThe results were ___ because the sample size was too small.",
+      "options": [
+        "reliable",
+        "conclusive",
+        "uncertain",
+        "remarkable"
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ السياق يقول العينة صغيرة → النتائج غير مؤكدة = uncertain."
+    },
+    {
+      "id": "V067",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nThe manager tried to ___ the conflict between the teams.",
+      "options": [
+        "resolve",
+        "repeat",
+        "decorate",
+        "borrow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ resolve = يحل."
+    },
+    {
+      "id": "V068",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nThe manager tried to ___ the conflict between the teams.",
+      "options": [
+        "resolve",
+        "repeat",
+        "decorate",
+        "borrow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ resolve = يحل."
+    },
+    {
+      "id": "V069",
+      "section": "Vocabulary",
+      "level": "Hard",
+      "prompt": "Choose the best word:\nShe was ___ to finish the task before the deadline.",
+      "options": [
+        "determined",
+        "confused",
+        "careless",
+        "silent"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ determined = مصممة."
+    },
+    {
+      "id": "V070",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nShe was ___ to finish the task before the deadline.",
+      "options": [
+        "determined",
+        "confused",
+        "careless",
+        "silent"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ determined = مصممة."
+    },
+    {
+      "id": "V071",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe author uses examples to ___ his main point.",
+      "options": [
+        "support",
+        "remove",
+        "forget",
+        "damage"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ support = يدعم."
+    },
+    {
+      "id": "V072",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe manager tried to ___ the conflict between the teams.",
+      "options": [
+        "resolve",
+        "repeat",
+        "decorate",
+        "borrow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ resolve = يحل."
+    },
+    {
+      "id": "V073",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe company decided to ___ its services to new regions.",
+      "options": [
+        "expand",
+        "reduce",
+        "delay",
+        "ignore"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ expand = يتوسع."
+    },
+    {
+      "id": "V074",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nThe author uses examples to ___ his main point.",
+      "options": [
+        "support",
+        "remove",
+        "forget",
+        "damage"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ support = يدعم."
+    },
+    {
+      "id": "V075",
+      "section": "Vocabulary",
+      "level": "Easy",
+      "prompt": "Choose the best word:\nThe solution was ___ for most students.",
+      "options": [
+        "obvious",
+        "invisible",
+        "random",
+        "dangerous"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ obvious = واضح."
+    },
+    {
+      "id": "V076",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe author uses examples to ___ his main point.",
+      "options": [
+        "support",
+        "remove",
+        "forget",
+        "damage"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ support = يدعم."
+    },
+    {
+      "id": "V077",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe teacher asked students to ___ their answers with evidence.",
+      "options": [
+        "justify",
+        "avoid",
+        "print",
+        "celebrate"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ justify = يبرر/يدعم."
+    },
+    {
+      "id": "V078",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe author uses examples to ___ his main point.",
+      "options": [
+        "support",
+        "remove",
+        "forget",
+        "damage"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ support = يدعم."
+    },
+    {
+      "id": "V079",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nShe was ___ to finish the task before the deadline.",
+      "options": [
+        "determined",
+        "confused",
+        "careless",
+        "silent"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ determined = مصممة."
+    },
+    {
+      "id": "V080",
+      "section": "Vocabulary",
+      "level": "Medium",
+      "prompt": "Choose the best word:\nThe manager tried to ___ the conflict between the teams.",
+      "options": [
+        "resolve",
+        "repeat",
+        "decorate",
+        "borrow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ resolve = يحل."
+    },
+    {
+      "id": "W001",
+      "section": "Writing & Editing",
+      "level": "Easy",
+      "prompt": "Find the underlined error:\nShe finished writing her term paper, ___ wanted to go home and rest.",
+      "options": [
+        "and",
+        "but",
+        "so",
+        "because"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ هنا (and) تربط فكرتين متتابعتين بدون تعارض."
+    },
+    {
+      "id": "W002",
+      "section": "Writing & Editing",
+      "level": "Hard",
+      "prompt": "Choose the best transition:\nHe studied every day; ___, he still felt nervous.",
+      "options": [
+        "therefore",
+        "however",
+        "because",
+        "for example"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ however = رغم ذلك."
+    },
+    {
+      "id": "W003",
+      "section": "Writing & Editing",
+      "level": "Easy",
+      "prompt": "Choose the correct sentence order:\n1) The experiment began. 2) The researchers reviewed the data. 3) They designed a clear plan.\nBest order is:",
+      "options": [
+        "1-2-3",
+        "3-1-2",
+        "2-3-1",
+        "3-2-1"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ المنطقي: تخطيط → تنفيذ → مراجعة."
+    },
+    {
+      "id": "W004",
+      "section": "Writing & Editing",
+      "level": "Easy",
+      "prompt": "Choose the correct capitalization:\n___ united states has fifty states.",
+      "options": [
+        "the",
+        "The",
+        "THE",
+        "tHe"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ بداية الجملة بحرف كبير + الاسم الصحيح: The United States."
+    },
+    {
+      "id": "W005",
+      "section": "Writing & Editing",
+      "level": "Easy",
+      "prompt": "Choose the best punctuation:\nThe teacher asked the students if they wanted to finish early ___ and they shouted, 'Yes!'",
+      "options": [
+        ";",
+        "—",
+        ",",
+        "."
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ هنا جملتين مرتبطتين، الأنسب فاصلة قبل (and) لأن الجملة مستمرة."
+    },
+    {
+      "id": "W006",
+      "section": "Writing & Editing",
+      "level": "Hard",
+      "prompt": "Find the underlined error:\nShe finished writing her term paper, ___ wanted to go home and rest.",
+      "options": [
+        "and",
+        "but",
+        "so",
+        "because"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ هنا (and) تربط فكرتين متتابعتين بدون تعارض."
+    },
+    {
+      "id": "W007",
+      "section": "Writing & Editing",
+      "level": "Medium",
+      "prompt": "Choose the correct sentence order:\n1) The experiment began. 2) The researchers reviewed the data. 3) They designed a clear plan.\nBest order is:",
+      "options": [
+        "1-2-3",
+        "3-1-2",
+        "2-3-1",
+        "3-2-1"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ المنطقي: تخطيط → تنفيذ → مراجعة."
+    },
+    {
+      "id": "W008",
+      "section": "Writing & Editing",
+      "level": "Hard",
+      "prompt": "Choose the best transition:\nHe studied every day; ___, he still felt nervous.",
+      "options": [
+        "therefore",
+        "however",
+        "because",
+        "for example"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ however = رغم ذلك."
+    },
+    {
+      "id": "W009",
+      "section": "Writing & Editing",
+      "level": "Easy",
+      "prompt": "Choose the correct capitalization:\n___ united states has fifty states.",
+      "options": [
+        "the",
+        "The",
+        "THE",
+        "tHe"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ بداية الجملة بحرف كبير + الاسم الصحيح: The United States."
+    },
+    {
+      "id": "W010",
+      "section": "Writing & Editing",
+      "level": "Easy",
+      "prompt": "Choose the correct sentence order:\n1) The experiment began. 2) The researchers reviewed the data. 3) They designed a clear plan.\nBest order is:",
+      "options": [
+        "1-2-3",
+        "3-1-2",
+        "2-3-1",
+        "3-2-1"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ المنطقي: تخطيط → تنفيذ → مراجعة."
+    },
+    {
+      "id": "W011",
+      "section": "Writing & Editing",
+      "level": "Hard",
+      "prompt": "Choose the correct sentence order:\n1) The experiment began. 2) The researchers reviewed the data. 3) They designed a clear plan.\nBest order is:",
+      "options": [
+        "1-2-3",
+        "3-1-2",
+        "2-3-1",
+        "3-2-1"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ المنطقي: تخطيط → تنفيذ → مراجعة."
+    },
+    {
+      "id": "W012",
+      "section": "Writing & Editing",
+      "level": "Hard",
+      "prompt": "Choose the best transition:\nHe studied every day; ___, he still felt nervous.",
+      "options": [
+        "therefore",
+        "however",
+        "because",
+        "for example"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ however = رغم ذلك."
+    },
+    {
+      "id": "W013",
+      "section": "Writing & Editing",
+      "level": "Easy",
+      "prompt": "Choose the correct capitalization:\n___ united states has fifty states.",
+      "options": [
+        "the",
+        "The",
+        "THE",
+        "tHe"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ بداية الجملة بحرف كبير + الاسم الصحيح: The United States."
+    },
+    {
+      "id": "W014",
+      "section": "Writing & Editing",
+      "level": "Hard",
+      "prompt": "Choose the best transition:\nHe studied every day; ___, he still felt nervous.",
+      "options": [
+        "therefore",
+        "however",
+        "because",
+        "for example"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ however = رغم ذلك."
+    },
+    {
+      "id": "W015",
+      "section": "Writing & Editing",
+      "level": "Hard",
+      "prompt": "Choose the correct sentence order:\n1) The experiment began. 2) The researchers reviewed the data. 3) They designed a clear plan.\nBest order is:",
+      "options": [
+        "1-2-3",
+        "3-1-2",
+        "2-3-1",
+        "3-2-1"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ المنطقي: تخطيط → تنفيذ → مراجعة."
+    },
+    {
+      "id": "W016",
+      "section": "Writing & Editing",
+      "level": "Hard",
+      "prompt": "Choose the best transition:\nHe studied every day; ___, he still felt nervous.",
+      "options": [
+        "therefore",
+        "however",
+        "because",
+        "for example"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ however = رغم ذلك."
+    },
+    {
+      "id": "W017",
+      "section": "Writing & Editing",
+      "level": "Hard",
+      "prompt": "Choose the correct capitalization:\n___ united states has fifty states.",
+      "options": [
+        "the",
+        "The",
+        "THE",
+        "tHe"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ بداية الجملة بحرف كبير + الاسم الصحيح: The United States."
+    },
+    {
+      "id": "W018",
+      "section": "Writing & Editing",
+      "level": "Hard",
+      "prompt": "Choose the correct sentence order:\n1) The experiment began. 2) The researchers reviewed the data. 3) They designed a clear plan.\nBest order is:",
+      "options": [
+        "1-2-3",
+        "3-1-2",
+        "2-3-1",
+        "3-2-1"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ المنطقي: تخطيط → تنفيذ → مراجعة."
+    },
+    {
+      "id": "W019",
+      "section": "Writing & Editing",
+      "level": "Hard",
+      "prompt": "Choose the correct sentence order:\n1) The experiment began. 2) The researchers reviewed the data. 3) They designed a clear plan.\nBest order is:",
+      "options": [
+        "1-2-3",
+        "3-1-2",
+        "2-3-1",
+        "3-2-1"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ المنطقي: تخطيط → تنفيذ → مراجعة."
+    },
+    {
+      "id": "W020",
+      "section": "Writing & Editing",
+      "level": "Easy",
+      "prompt": "Choose the best transition:\nHe studied every day; ___, he still felt nervous.",
+      "options": [
+        "therefore",
+        "however",
+        "because",
+        "for example"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ however = رغم ذلك."
+    },
+    {
+      "id": "W021",
+      "section": "Writing & Editing",
+      "level": "Medium",
+      "prompt": "Choose the best punctuation:\nThe teacher asked the students if they wanted to finish early ___ and they shouted, 'Yes!'",
+      "options": [
+        ";",
+        "—",
+        ",",
+        "."
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ هنا جملتين مرتبطتين، الأنسب فاصلة قبل (and) لأن الجملة مستمرة."
+    },
+    {
+      "id": "W022",
+      "section": "Writing & Editing",
+      "level": "Medium",
+      "prompt": "Choose the best punctuation:\nThe teacher asked the students if they wanted to finish early ___ and they shouted, 'Yes!'",
+      "options": [
+        ";",
+        "—",
+        ",",
+        "."
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ هنا جملتين مرتبطتين، الأنسب فاصلة قبل (and) لأن الجملة مستمرة."
+    },
+    {
+      "id": "W023",
+      "section": "Writing & Editing",
+      "level": "Easy",
+      "prompt": "Choose the correct capitalization:\n___ united states has fifty states.",
+      "options": [
+        "the",
+        "The",
+        "THE",
+        "tHe"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ بداية الجملة بحرف كبير + الاسم الصحيح: The United States."
+    },
+    {
+      "id": "W024",
+      "section": "Writing & Editing",
+      "level": "Medium",
+      "prompt": "Choose the best punctuation:\nThe teacher asked the students if they wanted to finish early ___ and they shouted, 'Yes!'",
+      "options": [
+        ";",
+        "—",
+        ",",
+        "."
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ هنا جملتين مرتبطتين، الأنسب فاصلة قبل (and) لأن الجملة مستمرة."
+    },
+    {
+      "id": "W025",
+      "section": "Writing & Editing",
+      "level": "Hard",
+      "prompt": "Choose the correct capitalization:\n___ united states has fifty states.",
+      "options": [
+        "the",
+        "The",
+        "THE",
+        "tHe"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ بداية الجملة بحرف كبير + الاسم الصحيح: The United States."
+    },
+    {
+      "id": "W026",
+      "section": "Writing & Editing",
+      "level": "Hard",
+      "prompt": "Choose the best punctuation:\nThe teacher asked the students if they wanted to finish early ___ and they shouted, 'Yes!'",
+      "options": [
+        ";",
+        "—",
+        ",",
+        "."
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ هنا جملتين مرتبطتين، الأنسب فاصلة قبل (and) لأن الجملة مستمرة."
+    },
+    {
+      "id": "W027",
+      "section": "Writing & Editing",
+      "level": "Medium",
+      "prompt": "Choose the correct sentence order:\n1) The experiment began. 2) The researchers reviewed the data. 3) They designed a clear plan.\nBest order is:",
+      "options": [
+        "1-2-3",
+        "3-1-2",
+        "2-3-1",
+        "3-2-1"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ المنطقي: تخطيط → تنفيذ → مراجعة."
+    },
+    {
+      "id": "W028",
+      "section": "Writing & Editing",
+      "level": "Easy",
+      "prompt": "Choose the best transition:\nHe studied every day; ___, he still felt nervous.",
+      "options": [
+        "therefore",
+        "however",
+        "because",
+        "for example"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ however = رغم ذلك."
+    },
+    {
+      "id": "W029",
+      "section": "Writing & Editing",
+      "level": "Medium",
+      "prompt": "Choose the correct sentence order:\n1) The experiment began. 2) The researchers reviewed the data. 3) They designed a clear plan.\nBest order is:",
+      "options": [
+        "1-2-3",
+        "3-1-2",
+        "2-3-1",
+        "3-2-1"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ المنطقي: تخطيط → تنفيذ → مراجعة."
+    },
+    {
+      "id": "W030",
+      "section": "Writing & Editing",
+      "level": "Medium",
+      "prompt": "Choose the correct capitalization:\n___ united states has fifty states.",
+      "options": [
+        "the",
+        "The",
+        "THE",
+        "tHe"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ بداية الجملة بحرف كبير + الاسم الصحيح: The United States."
+    },
+    {
+      "id": "W031",
+      "section": "Writing & Editing",
+      "level": "Easy",
+      "prompt": "Choose the correct sentence order:\n1) The experiment began. 2) The researchers reviewed the data. 3) They designed a clear plan.\nBest order is:",
+      "options": [
+        "1-2-3",
+        "3-1-2",
+        "2-3-1",
+        "3-2-1"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ المنطقي: تخطيط → تنفيذ → مراجعة."
+    },
+    {
+      "id": "W032",
+      "section": "Writing & Editing",
+      "level": "Medium",
+      "prompt": "Choose the best punctuation:\nThe teacher asked the students if they wanted to finish early ___ and they shouted, 'Yes!'",
+      "options": [
+        ";",
+        "—",
+        ",",
+        "."
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ هنا جملتين مرتبطتين، الأنسب فاصلة قبل (and) لأن الجملة مستمرة."
+    },
+    {
+      "id": "W033",
+      "section": "Writing & Editing",
+      "level": "Medium",
+      "prompt": "Choose the correct sentence order:\n1) The experiment began. 2) The researchers reviewed the data. 3) They designed a clear plan.\nBest order is:",
+      "options": [
+        "1-2-3",
+        "3-1-2",
+        "2-3-1",
+        "3-2-1"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ المنطقي: تخطيط → تنفيذ → مراجعة."
+    },
+    {
+      "id": "W034",
+      "section": "Writing & Editing",
+      "level": "Easy",
+      "prompt": "Choose the best punctuation:\nThe teacher asked the students if they wanted to finish early ___ and they shouted, 'Yes!'",
+      "options": [
+        ";",
+        "—",
+        ",",
+        "."
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ هنا جملتين مرتبطتين، الأنسب فاصلة قبل (and) لأن الجملة مستمرة."
+    },
+    {
+      "id": "W035",
+      "section": "Writing & Editing",
+      "level": "Easy",
+      "prompt": "Choose the best punctuation:\nThe teacher asked the students if they wanted to finish early ___ and they shouted, 'Yes!'",
+      "options": [
+        ";",
+        "—",
+        ",",
+        "."
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ هنا جملتين مرتبطتين، الأنسب فاصلة قبل (and) لأن الجملة مستمرة."
+    },
+    {
+      "id": "W036",
+      "section": "Writing & Editing",
+      "level": "Medium",
+      "prompt": "Choose the best punctuation:\nThe teacher asked the students if they wanted to finish early ___ and they shouted, 'Yes!'",
+      "options": [
+        ";",
+        "—",
+        ",",
+        "."
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ هنا جملتين مرتبطتين، الأنسب فاصلة قبل (and) لأن الجملة مستمرة."
+    },
+    {
+      "id": "W037",
+      "section": "Writing & Editing",
+      "level": "Easy",
+      "prompt": "Choose the best punctuation:\nThe teacher asked the students if they wanted to finish early ___ and they shouted, 'Yes!'",
+      "options": [
+        ";",
+        "—",
+        ",",
+        "."
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ هنا جملتين مرتبطتين، الأنسب فاصلة قبل (and) لأن الجملة مستمرة."
+    },
+    {
+      "id": "W038",
+      "section": "Writing & Editing",
+      "level": "Hard",
+      "prompt": "Choose the best transition:\nHe studied every day; ___, he still felt nervous.",
+      "options": [
+        "therefore",
+        "however",
+        "because",
+        "for example"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ however = رغم ذلك."
+    },
+    {
+      "id": "W039",
+      "section": "Writing & Editing",
+      "level": "Medium",
+      "prompt": "Choose the correct sentence order:\n1) The experiment began. 2) The researchers reviewed the data. 3) They designed a clear plan.\nBest order is:",
+      "options": [
+        "1-2-3",
+        "3-1-2",
+        "2-3-1",
+        "3-2-1"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ المنطقي: تخطيط → تنفيذ → مراجعة."
+    },
+    {
+      "id": "W040",
+      "section": "Writing & Editing",
+      "level": "Hard",
+      "prompt": "Find the underlined error:\nShe finished writing her term paper, ___ wanted to go home and rest.",
+      "options": [
+        "and",
+        "but",
+        "so",
+        "because"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ هنا (and) تربط فكرتين متتابعتين بدون تعارض."
+    },
+    {
+      "id": "W041",
+      "section": "Writing & Editing",
+      "level": "Easy",
+      "prompt": "Choose the best transition:\nHe studied every day; ___, he still felt nervous.",
+      "options": [
+        "therefore",
+        "however",
+        "because",
+        "for example"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ however = رغم ذلك."
+    },
+    {
+      "id": "W042",
+      "section": "Writing & Editing",
+      "level": "Medium",
+      "prompt": "Find the underlined error:\nShe finished writing her term paper, ___ wanted to go home and rest.",
+      "options": [
+        "and",
+        "but",
+        "so",
+        "because"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ هنا (and) تربط فكرتين متتابعتين بدون تعارض."
+    },
+    {
+      "id": "W043",
+      "section": "Writing & Editing",
+      "level": "Easy",
+      "prompt": "Choose the best transition:\nHe studied every day; ___, he still felt nervous.",
+      "options": [
+        "therefore",
+        "however",
+        "because",
+        "for example"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ however = رغم ذلك."
+    },
+    {
+      "id": "W044",
+      "section": "Writing & Editing",
+      "level": "Medium",
+      "prompt": "Choose the best transition:\nHe studied every day; ___, he still felt nervous.",
+      "options": [
+        "therefore",
+        "however",
+        "because",
+        "for example"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ however = رغم ذلك."
+    },
+    {
+      "id": "W045",
+      "section": "Writing & Editing",
+      "level": "Hard",
+      "prompt": "Find the underlined error:\nShe finished writing her term paper, ___ wanted to go home and rest.",
+      "options": [
+        "and",
+        "but",
+        "so",
+        "because"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ هنا (and) تربط فكرتين متتابعتين بدون تعارض."
+    },
+    {
+      "id": "W046",
+      "section": "Writing & Editing",
+      "level": "Hard",
+      "prompt": "Choose the best punctuation:\nThe teacher asked the students if they wanted to finish early ___ and they shouted, 'Yes!'",
+      "options": [
+        ";",
+        "—",
+        ",",
+        "."
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ هنا جملتين مرتبطتين، الأنسب فاصلة قبل (and) لأن الجملة مستمرة."
+    },
+    {
+      "id": "W047",
+      "section": "Writing & Editing",
+      "level": "Hard",
+      "prompt": "Choose the correct sentence order:\n1) The experiment began. 2) The researchers reviewed the data. 3) They designed a clear plan.\nBest order is:",
+      "options": [
+        "1-2-3",
+        "3-1-2",
+        "2-3-1",
+        "3-2-1"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ المنطقي: تخطيط → تنفيذ → مراجعة."
+    },
+    {
+      "id": "W048",
+      "section": "Writing & Editing",
+      "level": "Medium",
+      "prompt": "Choose the correct sentence order:\n1) The experiment began. 2) The researchers reviewed the data. 3) They designed a clear plan.\nBest order is:",
+      "options": [
+        "1-2-3",
+        "3-1-2",
+        "2-3-1",
+        "3-2-1"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ المنطقي: تخطيط → تنفيذ → مراجعة."
+    },
+    {
+      "id": "W049",
+      "section": "Writing & Editing",
+      "level": "Medium",
+      "prompt": "Choose the correct sentence order:\n1) The experiment began. 2) The researchers reviewed the data. 3) They designed a clear plan.\nBest order is:",
+      "options": [
+        "1-2-3",
+        "3-1-2",
+        "2-3-1",
+        "3-2-1"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ المنطقي: تخطيط → تنفيذ → مراجعة."
+    },
+    {
+      "id": "W050",
+      "section": "Writing & Editing",
+      "level": "Hard",
+      "prompt": "Choose the best punctuation:\nThe teacher asked the students if they wanted to finish early ___ and they shouted, 'Yes!'",
+      "options": [
+        ";",
+        "—",
+        ",",
+        "."
+      ],
+      "answerIndex": 2,
+      "explanation_ar": "✅ هنا جملتين مرتبطتين، الأنسب فاصلة قبل (and) لأن الجملة مستمرة."
+    },
+    {
+      "id": "R0101",
+      "section": "Reading",
+      "level": "Easy",
+      "prompt": "Read the passage, then answer:\n\n[The Value of Water]\nWe often take resources for granted until they become scarce. Water is a clear example. In many cities, clean water arrives with a simple turn of a tap, so people rarely think about its source. However, in regions that face drought, daily routines change dramatically. Families may store water, limit showers, and plan meals more carefully. These habits show that value is not only about price; it is also about availability. When water is limited, communities become more creative: they repair leaking pipes, reuse water for gardens, and invest in efficient irrigation. In the long term, education and responsible use can protect this essential resource.\n\n1) What is the main idea of the passage?",
+      "options": [
+        "The passage describes entertainment news.",
+        "The passage explains a topic and why it matters.",
+        "The passage lists unrelated facts.",
+        "The passage gives a recipe."
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ الفكرة الرئيسية هي “شرح موضوع + أهميته”، وليس أخبار أو تفاصيل مشتتة."
+    },
+    {
+      "id": "R0102",
+      "section": "Reading",
+      "level": "Medium",
+      "prompt": "Read the passage, then answer:\n\n[The Value of Water]\nWe often take resources for granted until they become scarce. Water is a clear example. In many cities, clean water arrives with a simple turn of a tap, so people rarely think about its source. However, in regions that face drought, daily routines change dramatically. Families may store water, limit showers, and plan meals more carefully. These habits show that value is not only about price; it is also about availability. When water is limited, communities become more creative: they repair leaking pipes, reuse water for gardens, and invest in efficient irrigation. In the long term, education and responsible use can protect this essential resource.\n\n2) Which statement is supported by the passage?",
+      "options": [
+        "The passage suggests habits can influence outcomes.",
+        "The passage says habits do not matter.",
+        "The passage claims the topic is fully solved.",
+        "The passage avoids giving any examples."
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ النص عادة يذكر أمثلة/عادات/حلول بسيطة تؤثر فعلاً."
+    },
+    {
+      "id": "R0103",
+      "section": "Reading",
+      "level": "Hard",
+      "prompt": "Read the passage, then answer:\n\n[The Value of Water]\nWe often take resources for granted until they become scarce. Water is a clear example. In many cities, clean water arrives with a simple turn of a tap, so people rarely think about its source. However, in regions that face drought, daily routines change dramatically. Families may store water, limit showers, and plan meals more carefully. These habits show that value is not only about price; it is also about availability. When water is limited, communities become more creative: they repair leaking pipes, reuse water for gardens, and invest in efficient irrigation. In the long term, education and responsible use can protect this essential resource.\n\n3) What can be inferred from the passage?",
+      "options": [
+        "Consistency and planning often improve results.",
+        "Only experts can apply the ideas.",
+        "Practice is unnecessary.",
+        "Change should always be avoided."
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ الاستنتاج الصحيح يطلع من “روح النص”: الاستمرارية + خطة واضحة = نتيجة أفضل."
+    },
+    {
+      "id": "R0104",
+      "section": "Reading",
+      "level": "Hard",
+      "prompt": "Read the passage, then answer:\n\n[The Value of Water]\nWe often take resources for granted until they become scarce. Water is a clear example. In many cities, clean water arrives with a simple turn of a tap, so people rarely think about its source. However, in regions that face drought, daily routines change dramatically. Families may store water, limit showers, and plan meals more carefully. These habits show that value is not only about price; it is also about availability. When water is limited, communities become more creative: they repair leaking pipes, reuse water for gardens, and invest in efficient irrigation. In the long term, education and responsible use can protect this essential resource.\n\n4) In the passage, the word “scarce” is closest in meaning to:",
+      "options": [
+        "common",
+        "limited",
+        "colorful",
+        "noisy"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ سؤال مفردات: اختر المعنى الأقرب حسب السياق."
+    },
+    {
+      "id": "R0105",
+      "section": "Reading",
+      "level": "Hard",
+      "prompt": "Read the passage, then answer:\n\n[The Value of Water]\nWe often take resources for granted until they become scarce. Water is a clear example. In many cities, clean water arrives with a simple turn of a tap, so people rarely think about its source. However, in regions that face drought, daily routines change dramatically. Families may store water, limit showers, and plan meals more carefully. These habits show that value is not only about price; it is also about availability. When water is limited, communities become more creative: they repair leaking pipes, reuse water for gardens, and invest in efficient irrigation. In the long term, education and responsible use can protect this essential resource.\n\n5) The passage would most likely be found in:",
+      "options": [
+        "An education/science article",
+        "A movie script",
+        "A shopping receipt",
+        "A comedy sketch"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ أسلوب النص معلوماتي/تعليمي."
+    },
+    {
+      "id": "R0201",
+      "section": "Reading",
+      "level": "Easy",
+      "prompt": "Read the passage, then answer:\n\n[Technology and Learning]\nTechnology can support learning when it is used with clear goals. Short videos, interactive quizzes, and digital flashcards help students review quickly. Still, technology is not a magic solution. Some students watch many lessons but rarely practice, so their progress stays limited. Effective learning usually needs two parts: understanding and training. For example, a student can study grammar rules, but improvement appears only after solving many questions. The best approach is balanced: use technology for guidance, then practice actively and track mistakes.\n\n1) What is the main idea of the passage?",
+      "options": [
+        "The passage describes entertainment news.",
+        "The passage explains a topic and why it matters.",
+        "The passage lists unrelated facts.",
+        "The passage gives a recipe."
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ الفكرة الرئيسية هي “شرح موضوع + أهميته”، وليس أخبار أو تفاصيل مشتتة."
+    },
+    {
+      "id": "R0202",
+      "section": "Reading",
+      "level": "Easy",
+      "prompt": "Read the passage, then answer:\n\n[Technology and Learning]\nTechnology can support learning when it is used with clear goals. Short videos, interactive quizzes, and digital flashcards help students review quickly. Still, technology is not a magic solution. Some students watch many lessons but rarely practice, so their progress stays limited. Effective learning usually needs two parts: understanding and training. For example, a student can study grammar rules, but improvement appears only after solving many questions. The best approach is balanced: use technology for guidance, then practice actively and track mistakes.\n\n2) Which statement is supported by the passage?",
+      "options": [
+        "The passage suggests habits can influence outcomes.",
+        "The passage says habits do not matter.",
+        "The passage claims the topic is fully solved.",
+        "The passage avoids giving any examples."
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ النص عادة يذكر أمثلة/عادات/حلول بسيطة تؤثر فعلاً."
+    },
+    {
+      "id": "R0203",
+      "section": "Reading",
+      "level": "Hard",
+      "prompt": "Read the passage, then answer:\n\n[Technology and Learning]\nTechnology can support learning when it is used with clear goals. Short videos, interactive quizzes, and digital flashcards help students review quickly. Still, technology is not a magic solution. Some students watch many lessons but rarely practice, so their progress stays limited. Effective learning usually needs two parts: understanding and training. For example, a student can study grammar rules, but improvement appears only after solving many questions. The best approach is balanced: use technology for guidance, then practice actively and track mistakes.\n\n3) What can be inferred from the passage?",
+      "options": [
+        "Consistency and planning often improve results.",
+        "Only experts can apply the ideas.",
+        "Practice is unnecessary.",
+        "Change should always be avoided."
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ الاستنتاج الصحيح يطلع من “روح النص”: الاستمرارية + خطة واضحة = نتيجة أفضل."
+    },
+    {
+      "id": "R0204",
+      "section": "Reading",
+      "level": "Hard",
+      "prompt": "Read the passage, then answer:\n\n[Technology and Learning]\nTechnology can support learning when it is used with clear goals. Short videos, interactive quizzes, and digital flashcards help students review quickly. Still, technology is not a magic solution. Some students watch many lessons but rarely practice, so their progress stays limited. Effective learning usually needs two parts: understanding and training. For example, a student can study grammar rules, but improvement appears only after solving many questions. The best approach is balanced: use technology for guidance, then practice actively and track mistakes.\n\n4) In the passage, the word “interactive” is closest in meaning to:",
+      "options": [
+        "boring",
+        "two-sided",
+        "expensive",
+        "silent"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ سؤال مفردات: اختر المعنى الأقرب حسب السياق."
+    },
+    {
+      "id": "R0205",
+      "section": "Reading",
+      "level": "Hard",
+      "prompt": "Read the passage, then answer:\n\n[Technology and Learning]\nTechnology can support learning when it is used with clear goals. Short videos, interactive quizzes, and digital flashcards help students review quickly. Still, technology is not a magic solution. Some students watch many lessons but rarely practice, so their progress stays limited. Effective learning usually needs two parts: understanding and training. For example, a student can study grammar rules, but improvement appears only after solving many questions. The best approach is balanced: use technology for guidance, then practice actively and track mistakes.\n\n5) The passage would most likely be found in:",
+      "options": [
+        "An education/science article",
+        "A movie script",
+        "A shopping receipt",
+        "A comedy sketch"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ أسلوب النص معلوماتي/تعليمي."
+    },
+    {
+      "id": "R0301",
+      "section": "Reading",
+      "level": "Medium",
+      "prompt": "Read the passage, then answer:\n\n[Urban Stress]\nStress is a common experience in modern cities. Traffic, noise, and long work hours can make people feel exhausted. Researchers suggest that small lifestyle changes can reduce stress. Walking for twenty minutes, sleeping regularly, and limiting caffeine may help. Another useful strategy is social connection: people who spend time with supportive friends often handle stress better. Importantly, stress is not always harmful. In small amounts, it can motivate a person to prepare for an exam or finish a task. The challenge is to keep stress at a manageable level.\n\n1) What is the main idea of the passage?",
+      "options": [
+        "The passage describes entertainment news.",
+        "The passage explains a topic and why it matters.",
+        "The passage lists unrelated facts.",
+        "The passage gives a recipe."
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ الفكرة الرئيسية هي “شرح موضوع + أهميته”، وليس أخبار أو تفاصيل مشتتة."
+    },
+    {
+      "id": "R0302",
+      "section": "Reading",
+      "level": "Hard",
+      "prompt": "Read the passage, then answer:\n\n[Urban Stress]\nStress is a common experience in modern cities. Traffic, noise, and long work hours can make people feel exhausted. Researchers suggest that small lifestyle changes can reduce stress. Walking for twenty minutes, sleeping regularly, and limiting caffeine may help. Another useful strategy is social connection: people who spend time with supportive friends often handle stress better. Importantly, stress is not always harmful. In small amounts, it can motivate a person to prepare for an exam or finish a task. The challenge is to keep stress at a manageable level.\n\n2) Which statement is supported by the passage?",
+      "options": [
+        "The passage suggests habits can influence outcomes.",
+        "The passage says habits do not matter.",
+        "The passage claims the topic is fully solved.",
+        "The passage avoids giving any examples."
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ النص عادة يذكر أمثلة/عادات/حلول بسيطة تؤثر فعلاً."
+    },
+    {
+      "id": "R0303",
+      "section": "Reading",
+      "level": "Hard",
+      "prompt": "Read the passage, then answer:\n\n[Urban Stress]\nStress is a common experience in modern cities. Traffic, noise, and long work hours can make people feel exhausted. Researchers suggest that small lifestyle changes can reduce stress. Walking for twenty minutes, sleeping regularly, and limiting caffeine may help. Another useful strategy is social connection: people who spend time with supportive friends often handle stress better. Importantly, stress is not always harmful. In small amounts, it can motivate a person to prepare for an exam or finish a task. The challenge is to keep stress at a manageable level.\n\n3) What can be inferred from the passage?",
+      "options": [
+        "Consistency and planning often improve results.",
+        "Only experts can apply the ideas.",
+        "Practice is unnecessary.",
+        "Change should always be avoided."
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ الاستنتاج الصحيح يطلع من “روح النص”: الاستمرارية + خطة واضحة = نتيجة أفضل."
+    },
+    {
+      "id": "R0304",
+      "section": "Reading",
+      "level": "Hard",
+      "prompt": "Read the passage, then answer:\n\n[Urban Stress]\nStress is a common experience in modern cities. Traffic, noise, and long work hours can make people feel exhausted. Researchers suggest that small lifestyle changes can reduce stress. Walking for twenty minutes, sleeping regularly, and limiting caffeine may help. Another useful strategy is social connection: people who spend time with supportive friends often handle stress better. Importantly, stress is not always harmful. In small amounts, it can motivate a person to prepare for an exam or finish a task. The challenge is to keep stress at a manageable level.\n\n4) In the passage, the word “manageable” is closest in meaning to:",
+      "options": [
+        "unbearable",
+        "controllable",
+        "invisible",
+        "ancient"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ سؤال مفردات: اختر المعنى الأقرب حسب السياق."
+    },
+    {
+      "id": "R0305",
+      "section": "Reading",
+      "level": "Medium",
+      "prompt": "Read the passage, then answer:\n\n[Urban Stress]\nStress is a common experience in modern cities. Traffic, noise, and long work hours can make people feel exhausted. Researchers suggest that small lifestyle changes can reduce stress. Walking for twenty minutes, sleeping regularly, and limiting caffeine may help. Another useful strategy is social connection: people who spend time with supportive friends often handle stress better. Importantly, stress is not always harmful. In small amounts, it can motivate a person to prepare for an exam or finish a task. The challenge is to keep stress at a manageable level.\n\n5) The passage would most likely be found in:",
+      "options": [
+        "An education/science article",
+        "A movie script",
+        "A shopping receipt",
+        "A comedy sketch"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ أسلوب النص معلوماتي/تعليمي."
+    },
+    {
+      "id": "R0401",
+      "section": "Reading",
+      "level": "Hard",
+      "prompt": "Read the passage, then answer:\n\n[Plastic Waste]\nPlastic is popular because it is light, cheap, and durable. Unfortunately, these same qualities create environmental problems. Plastic waste can remain in nature for many years. It breaks into small particles that are difficult to remove and can harm animals. Some governments have introduced rules to reduce plastic bags and encourage recycling. Businesses also play a role by designing packaging that uses less plastic. However, individual habits matter too. Reusing bottles, choosing paper when possible, and separating waste at home can reduce pollution over time.\n\n1) What is the main idea of the passage?",
+      "options": [
+        "The passage describes entertainment news.",
+        "The passage explains a topic and why it matters.",
+        "The passage lists unrelated facts.",
+        "The passage gives a recipe."
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ الفكرة الرئيسية هي “شرح موضوع + أهميته”، وليس أخبار أو تفاصيل مشتتة."
+    },
+    {
+      "id": "R0402",
+      "section": "Reading",
+      "level": "Medium",
+      "prompt": "Read the passage, then answer:\n\n[Plastic Waste]\nPlastic is popular because it is light, cheap, and durable. Unfortunately, these same qualities create environmental problems. Plastic waste can remain in nature for many years. It breaks into small particles that are difficult to remove and can harm animals. Some governments have introduced rules to reduce plastic bags and encourage recycling. Businesses also play a role by designing packaging that uses less plastic. However, individual habits matter too. Reusing bottles, choosing paper when possible, and separating waste at home can reduce pollution over time.\n\n2) Which statement is supported by the passage?",
+      "options": [
+        "The passage suggests habits can influence outcomes.",
+        "The passage says habits do not matter.",
+        "The passage claims the topic is fully solved.",
+        "The passage avoids giving any examples."
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ النص عادة يذكر أمثلة/عادات/حلول بسيطة تؤثر فعلاً."
+    },
+    {
+      "id": "R0403",
+      "section": "Reading",
+      "level": "Easy",
+      "prompt": "Read the passage, then answer:\n\n[Plastic Waste]\nPlastic is popular because it is light, cheap, and durable. Unfortunately, these same qualities create environmental problems. Plastic waste can remain in nature for many years. It breaks into small particles that are difficult to remove and can harm animals. Some governments have introduced rules to reduce plastic bags and encourage recycling. Businesses also play a role by designing packaging that uses less plastic. However, individual habits matter too. Reusing bottles, choosing paper when possible, and separating waste at home can reduce pollution over time.\n\n3) What can be inferred from the passage?",
+      "options": [
+        "Consistency and planning often improve results.",
+        "Only experts can apply the ideas.",
+        "Practice is unnecessary.",
+        "Change should always be avoided."
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ الاستنتاج الصحيح يطلع من “روح النص”: الاستمرارية + خطة واضحة = نتيجة أفضل."
+    },
+    {
+      "id": "R0404",
+      "section": "Reading",
+      "level": "Easy",
+      "prompt": "Read the passage, then answer:\n\n[Plastic Waste]\nPlastic is popular because it is light, cheap, and durable. Unfortunately, these same qualities create environmental problems. Plastic waste can remain in nature for many years. It breaks into small particles that are difficult to remove and can harm animals. Some governments have introduced rules to reduce plastic bags and encourage recycling. Businesses also play a role by designing packaging that uses less plastic. However, individual habits matter too. Reusing bottles, choosing paper when possible, and separating waste at home can reduce pollution over time.\n\n4) In the passage, the word “durable” is closest in meaning to:",
+      "options": [
+        "long-lasting",
+        "dangerous",
+        "tiny",
+        "wet"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ سؤال مفردات: اختر المعنى الأقرب حسب السياق."
+    },
+    {
+      "id": "R0405",
+      "section": "Reading",
+      "level": "Hard",
+      "prompt": "Read the passage, then answer:\n\n[Plastic Waste]\nPlastic is popular because it is light, cheap, and durable. Unfortunately, these same qualities create environmental problems. Plastic waste can remain in nature for many years. It breaks into small particles that are difficult to remove and can harm animals. Some governments have introduced rules to reduce plastic bags and encourage recycling. Businesses also play a role by designing packaging that uses less plastic. However, individual habits matter too. Reusing bottles, choosing paper when possible, and separating waste at home can reduce pollution over time.\n\n5) The passage would most likely be found in:",
+      "options": [
+        "An education/science article",
+        "A movie script",
+        "A shopping receipt",
+        "A comedy sketch"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ أسلوب النص معلوماتي/تعليمي."
+    },
+    {
+      "id": "R0501",
+      "section": "Reading",
+      "level": "Easy",
+      "prompt": "Read the passage, then answer:\n\n[Tourism and Culture]\nTourism can bring economic benefits to a region, but it also affects local culture. When many visitors arrive, hotels, restaurants, and transport services create jobs. At the same time, popular places may become crowded, and traditional lifestyles may change. Some communities protect their culture by limiting visitor numbers or encouraging respectful behavior. Educational tourism is one promising approach: travelers learn about history, language, and customs, while local guides share accurate information. This approach supports the economy without turning culture into a performance.\n\n1) What is the main idea of the passage?",
+      "options": [
+        "The passage describes entertainment news.",
+        "The passage explains a topic and why it matters.",
+        "The passage lists unrelated facts.",
+        "The passage gives a recipe."
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ الفكرة الرئيسية هي “شرح موضوع + أهميته”، وليس أخبار أو تفاصيل مشتتة."
+    },
+    {
+      "id": "R0502",
+      "section": "Reading",
+      "level": "Easy",
+      "prompt": "Read the passage, then answer:\n\n[Tourism and Culture]\nTourism can bring economic benefits to a region, but it also affects local culture. When many visitors arrive, hotels, restaurants, and transport services create jobs. At the same time, popular places may become crowded, and traditional lifestyles may change. Some communities protect their culture by limiting visitor numbers or encouraging respectful behavior. Educational tourism is one promising approach: travelers learn about history, language, and customs, while local guides share accurate information. This approach supports the economy without turning culture into a performance.\n\n2) Which statement is supported by the passage?",
+      "options": [
+        "The passage suggests habits can influence outcomes.",
+        "The passage says habits do not matter.",
+        "The passage claims the topic is fully solved.",
+        "The passage avoids giving any examples."
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ النص عادة يذكر أمثلة/عادات/حلول بسيطة تؤثر فعلاً."
+    },
+    {
+      "id": "R0503",
+      "section": "Reading",
+      "level": "Medium",
+      "prompt": "Read the passage, then answer:\n\n[Tourism and Culture]\nTourism can bring economic benefits to a region, but it also affects local culture. When many visitors arrive, hotels, restaurants, and transport services create jobs. At the same time, popular places may become crowded, and traditional lifestyles may change. Some communities protect their culture by limiting visitor numbers or encouraging respectful behavior. Educational tourism is one promising approach: travelers learn about history, language, and customs, while local guides share accurate information. This approach supports the economy without turning culture into a performance.\n\n3) What can be inferred from the passage?",
+      "options": [
+        "Consistency and planning often improve results.",
+        "Only experts can apply the ideas.",
+        "Practice is unnecessary.",
+        "Change should always be avoided."
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ الاستنتاج الصحيح يطلع من “روح النص”: الاستمرارية + خطة واضحة = نتيجة أفضل."
+    },
+    {
+      "id": "R0504",
+      "section": "Reading",
+      "level": "Easy",
+      "prompt": "Read the passage, then answer:\n\n[Tourism and Culture]\nTourism can bring economic benefits to a region, but it also affects local culture. When many visitors arrive, hotels, restaurants, and transport services create jobs. At the same time, popular places may become crowded, and traditional lifestyles may change. Some communities protect their culture by limiting visitor numbers or encouraging respectful behavior. Educational tourism is one promising approach: travelers learn about history, language, and customs, while local guides share accurate information. This approach supports the economy without turning culture into a performance.\n\n4) In the passage, the word “respectful” is closest in meaning to:",
+      "options": [
+        "polite",
+        "angry",
+        "careless",
+        "unclear"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ سؤال مفردات: اختر المعنى الأقرب حسب السياق."
+    },
+    {
+      "id": "R0505",
+      "section": "Reading",
+      "level": "Medium",
+      "prompt": "Read the passage, then answer:\n\n[Tourism and Culture]\nTourism can bring economic benefits to a region, but it also affects local culture. When many visitors arrive, hotels, restaurants, and transport services create jobs. At the same time, popular places may become crowded, and traditional lifestyles may change. Some communities protect their culture by limiting visitor numbers or encouraging respectful behavior. Educational tourism is one promising approach: travelers learn about history, language, and customs, while local guides share accurate information. This approach supports the economy without turning culture into a performance.\n\n5) The passage would most likely be found in:",
+      "options": [
+        "An education/science article",
+        "A movie script",
+        "A shopping receipt",
+        "A comedy sketch"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ أسلوب النص معلوماتي/تعليمي."
+    },
+    {
+      "id": "R0601",
+      "section": "Reading",
+      "level": "Easy",
+      "prompt": "Read the passage, then answer:\n\n[Healthy Sleep]\nGood sleep is closely connected to memory and mood. During sleep, the brain organizes new information and strengthens learning. Students who sleep well often remember vocabulary and concepts more easily. In contrast, poor sleep can reduce attention and increase mistakes. Experts recommend a consistent schedule: going to bed and waking up at similar times each day. Reducing screen time before bed also helps, because bright light can delay the body’s natural sleep signals. Sleep is not a waste of time; it is part of effective studying.\n\n1) What is the main idea of the passage?",
+      "options": [
+        "The passage describes entertainment news.",
+        "The passage explains a topic and why it matters.",
+        "The passage lists unrelated facts.",
+        "The passage gives a recipe."
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ الفكرة الرئيسية هي “شرح موضوع + أهميته”، وليس أخبار أو تفاصيل مشتتة."
+    },
+    {
+      "id": "R0602",
+      "section": "Reading",
+      "level": "Hard",
+      "prompt": "Read the passage, then answer:\n\n[Healthy Sleep]\nGood sleep is closely connected to memory and mood. During sleep, the brain organizes new information and strengthens learning. Students who sleep well often remember vocabulary and concepts more easily. In contrast, poor sleep can reduce attention and increase mistakes. Experts recommend a consistent schedule: going to bed and waking up at similar times each day. Reducing screen time before bed also helps, because bright light can delay the body’s natural sleep signals. Sleep is not a waste of time; it is part of effective studying.\n\n2) Which statement is supported by the passage?",
+      "options": [
+        "The passage suggests habits can influence outcomes.",
+        "The passage says habits do not matter.",
+        "The passage claims the topic is fully solved.",
+        "The passage avoids giving any examples."
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ النص عادة يذكر أمثلة/عادات/حلول بسيطة تؤثر فعلاً."
+    },
+    {
+      "id": "R0603",
+      "section": "Reading",
+      "level": "Medium",
+      "prompt": "Read the passage, then answer:\n\n[Healthy Sleep]\nGood sleep is closely connected to memory and mood. During sleep, the brain organizes new information and strengthens learning. Students who sleep well often remember vocabulary and concepts more easily. In contrast, poor sleep can reduce attention and increase mistakes. Experts recommend a consistent schedule: going to bed and waking up at similar times each day. Reducing screen time before bed also helps, because bright light can delay the body’s natural sleep signals. Sleep is not a waste of time; it is part of effective studying.\n\n3) What can be inferred from the passage?",
+      "options": [
+        "Consistency and planning often improve results.",
+        "Only experts can apply the ideas.",
+        "Practice is unnecessary.",
+        "Change should always be avoided."
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ الاستنتاج الصحيح يطلع من “روح النص”: الاستمرارية + خطة واضحة = نتيجة أفضل."
+    },
+    {
+      "id": "R0604",
+      "section": "Reading",
+      "level": "Hard",
+      "prompt": "Read the passage, then answer:\n\n[Healthy Sleep]\nGood sleep is closely connected to memory and mood. During sleep, the brain organizes new information and strengthens learning. Students who sleep well often remember vocabulary and concepts more easily. In contrast, poor sleep can reduce attention and increase mistakes. Experts recommend a consistent schedule: going to bed and waking up at similar times each day. Reducing screen time before bed also helps, because bright light can delay the body’s natural sleep signals. Sleep is not a waste of time; it is part of effective studying.\n\n4) In the passage, the word “consistent” is closest in meaning to:",
+      "options": [
+        "regular",
+        "dangerous",
+        "impossible",
+        "slow"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ سؤال مفردات: اختر المعنى الأقرب حسب السياق."
+    },
+    {
+      "id": "R0605",
+      "section": "Reading",
+      "level": "Medium",
+      "prompt": "Read the passage, then answer:\n\n[Healthy Sleep]\nGood sleep is closely connected to memory and mood. During sleep, the brain organizes new information and strengthens learning. Students who sleep well often remember vocabulary and concepts more easily. In contrast, poor sleep can reduce attention and increase mistakes. Experts recommend a consistent schedule: going to bed and waking up at similar times each day. Reducing screen time before bed also helps, because bright light can delay the body’s natural sleep signals. Sleep is not a waste of time; it is part of effective studying.\n\n5) The passage would most likely be found in:",
+      "options": [
+        "An education/science article",
+        "A movie script",
+        "A shopping receipt",
+        "A comedy sketch"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ أسلوب النص معلوماتي/تعليمي."
+    },
+    {
+      "id": "R0701",
+      "section": "Reading",
+      "level": "Easy",
+      "prompt": "Read the passage, then answer:\n\n[Inflation Basics]\nInflation means that prices rise over time, so money buys fewer goods and services. When inflation is low and stable, businesses can plan more easily. However, high inflation creates uncertainty. Consumers may rush to buy products before prices increase again. Governments and central banks try to control inflation by adjusting interest rates and monitoring economic activity. Inflation can have different causes: increased demand, higher production costs, or limited supply. Understanding inflation helps people make smarter decisions about saving and spending.\n\n1) What is the main idea of the passage?",
+      "options": [
+        "The passage describes entertainment news.",
+        "The passage explains a topic and why it matters.",
+        "The passage lists unrelated facts.",
+        "The passage gives a recipe."
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ الفكرة الرئيسية هي “شرح موضوع + أهميته”، وليس أخبار أو تفاصيل مشتتة."
+    },
+    {
+      "id": "R0702",
+      "section": "Reading",
+      "level": "Medium",
+      "prompt": "Read the passage, then answer:\n\n[Inflation Basics]\nInflation means that prices rise over time, so money buys fewer goods and services. When inflation is low and stable, businesses can plan more easily. However, high inflation creates uncertainty. Consumers may rush to buy products before prices increase again. Governments and central banks try to control inflation by adjusting interest rates and monitoring economic activity. Inflation can have different causes: increased demand, higher production costs, or limited supply. Understanding inflation helps people make smarter decisions about saving and spending.\n\n2) Which statement is supported by the passage?",
+      "options": [
+        "The passage suggests habits can influence outcomes.",
+        "The passage says habits do not matter.",
+        "The passage claims the topic is fully solved.",
+        "The passage avoids giving any examples."
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ النص عادة يذكر أمثلة/عادات/حلول بسيطة تؤثر فعلاً."
+    },
+    {
+      "id": "R0703",
+      "section": "Reading",
+      "level": "Medium",
+      "prompt": "Read the passage, then answer:\n\n[Inflation Basics]\nInflation means that prices rise over time, so money buys fewer goods and services. When inflation is low and stable, businesses can plan more easily. However, high inflation creates uncertainty. Consumers may rush to buy products before prices increase again. Governments and central banks try to control inflation by adjusting interest rates and monitoring economic activity. Inflation can have different causes: increased demand, higher production costs, or limited supply. Understanding inflation helps people make smarter decisions about saving and spending.\n\n3) What can be inferred from the passage?",
+      "options": [
+        "Consistency and planning often improve results.",
+        "Only experts can apply the ideas.",
+        "Practice is unnecessary.",
+        "Change should always be avoided."
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ الاستنتاج الصحيح يطلع من “روح النص”: الاستمرارية + خطة واضحة = نتيجة أفضل."
+    },
+    {
+      "id": "R0704",
+      "section": "Reading",
+      "level": "Medium",
+      "prompt": "Read the passage, then answer:\n\n[Inflation Basics]\nInflation means that prices rise over time, so money buys fewer goods and services. When inflation is low and stable, businesses can plan more easily. However, high inflation creates uncertainty. Consumers may rush to buy products before prices increase again. Governments and central banks try to control inflation by adjusting interest rates and monitoring economic activity. Inflation can have different causes: increased demand, higher production costs, or limited supply. Understanding inflation helps people make smarter decisions about saving and spending.\n\n4) In the passage, the word “uncertainty” is closest in meaning to:",
+      "options": [
+        "clarity",
+        "doubt",
+        "celebration",
+        "energy"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ سؤال مفردات: اختر المعنى الأقرب حسب السياق."
+    },
+    {
+      "id": "R0705",
+      "section": "Reading",
+      "level": "Medium",
+      "prompt": "Read the passage, then answer:\n\n[Inflation Basics]\nInflation means that prices rise over time, so money buys fewer goods and services. When inflation is low and stable, businesses can plan more easily. However, high inflation creates uncertainty. Consumers may rush to buy products before prices increase again. Governments and central banks try to control inflation by adjusting interest rates and monitoring economic activity. Inflation can have different causes: increased demand, higher production costs, or limited supply. Understanding inflation helps people make smarter decisions about saving and spending.\n\n5) The passage would most likely be found in:",
+      "options": [
+        "An education/science article",
+        "A movie script",
+        "A shopping receipt",
+        "A comedy sketch"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ أسلوب النص معلوماتي/تعليمي."
+    },
+    {
+      "id": "R0801",
+      "section": "Reading",
+      "level": "Medium",
+      "prompt": "Read the passage, then answer:\n\n[Bees and Pollination]\nBees are important for agriculture because they help pollinate plants. Pollination allows many fruits and vegetables to grow. When bee populations decline, farmers may face lower crop yields. Several factors can harm bees, including pesticides, loss of natural habitats, and disease. Some farmers support bees by planting wildflowers near fields and reducing harmful chemicals. Scientists also study ways to protect bee health. Protecting bees is not only about nature; it is also about food security.\n\n1) What is the main idea of the passage?",
+      "options": [
+        "The passage describes entertainment news.",
+        "The passage explains a topic and why it matters.",
+        "The passage lists unrelated facts.",
+        "The passage gives a recipe."
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ الفكرة الرئيسية هي “شرح موضوع + أهميته”، وليس أخبار أو تفاصيل مشتتة."
+    },
+    {
+      "id": "R0802",
+      "section": "Reading",
+      "level": "Hard",
+      "prompt": "Read the passage, then answer:\n\n[Bees and Pollination]\nBees are important for agriculture because they help pollinate plants. Pollination allows many fruits and vegetables to grow. When bee populations decline, farmers may face lower crop yields. Several factors can harm bees, including pesticides, loss of natural habitats, and disease. Some farmers support bees by planting wildflowers near fields and reducing harmful chemicals. Scientists also study ways to protect bee health. Protecting bees is not only about nature; it is also about food security.\n\n2) Which statement is supported by the passage?",
+      "options": [
+        "The passage suggests habits can influence outcomes.",
+        "The passage says habits do not matter.",
+        "The passage claims the topic is fully solved.",
+        "The passage avoids giving any examples."
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ النص عادة يذكر أمثلة/عادات/حلول بسيطة تؤثر فعلاً."
+    },
+    {
+      "id": "R0803",
+      "section": "Reading",
+      "level": "Hard",
+      "prompt": "Read the passage, then answer:\n\n[Bees and Pollination]\nBees are important for agriculture because they help pollinate plants. Pollination allows many fruits and vegetables to grow. When bee populations decline, farmers may face lower crop yields. Several factors can harm bees, including pesticides, loss of natural habitats, and disease. Some farmers support bees by planting wildflowers near fields and reducing harmful chemicals. Scientists also study ways to protect bee health. Protecting bees is not only about nature; it is also about food security.\n\n3) What can be inferred from the passage?",
+      "options": [
+        "Consistency and planning often improve results.",
+        "Only experts can apply the ideas.",
+        "Practice is unnecessary.",
+        "Change should always be avoided."
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ الاستنتاج الصحيح يطلع من “روح النص”: الاستمرارية + خطة واضحة = نتيجة أفضل."
+    },
+    {
+      "id": "R0804",
+      "section": "Reading",
+      "level": "Hard",
+      "prompt": "Read the passage, then answer:\n\n[Bees and Pollination]\nBees are important for agriculture because they help pollinate plants. Pollination allows many fruits and vegetables to grow. When bee populations decline, farmers may face lower crop yields. Several factors can harm bees, including pesticides, loss of natural habitats, and disease. Some farmers support bees by planting wildflowers near fields and reducing harmful chemicals. Scientists also study ways to protect bee health. Protecting bees is not only about nature; it is also about food security.\n\n4) In the passage, the word “decline” is closest in meaning to:",
+      "options": [
+        "increase",
+        "fall",
+        "repair",
+        "travel"
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ سؤال مفردات: اختر المعنى الأقرب حسب السياق."
+    },
+    {
+      "id": "R0805",
+      "section": "Reading",
+      "level": "Easy",
+      "prompt": "Read the passage, then answer:\n\n[Bees and Pollination]\nBees are important for agriculture because they help pollinate plants. Pollination allows many fruits and vegetables to grow. When bee populations decline, farmers may face lower crop yields. Several factors can harm bees, including pesticides, loss of natural habitats, and disease. Some farmers support bees by planting wildflowers near fields and reducing harmful chemicals. Scientists also study ways to protect bee health. Protecting bees is not only about nature; it is also about food security.\n\n5) The passage would most likely be found in:",
+      "options": [
+        "An education/science article",
+        "A movie script",
+        "A shopping receipt",
+        "A comedy sketch"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ أسلوب النص معلوماتي/تعليمي."
+    },
+    {
+      "id": "R0901",
+      "section": "Reading",
+      "level": "Hard",
+      "prompt": "Read the passage, then answer:\n\n[Software Ownership]\nPeople often buy software without thinking about what “ownership” means. In many cases, users do not own the software itself; they purchase a license to use it under specific rules. A license may limit how many devices can install the program or whether it can be shared. These agreements protect companies’ intellectual property, but they can also confuse customers. Clear communication is important: when users understand license terms, they can avoid legal and technical problems. As software moves to subscription models, reading terms becomes even more important.\n\n1) What is the main idea of the passage?",
+      "options": [
+        "The passage describes entertainment news.",
+        "The passage explains a topic and why it matters.",
+        "The passage lists unrelated facts.",
+        "The passage gives a recipe."
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ الفكرة الرئيسية هي “شرح موضوع + أهميته”، وليس أخبار أو تفاصيل مشتتة."
+    },
+    {
+      "id": "R0902",
+      "section": "Reading",
+      "level": "Medium",
+      "prompt": "Read the passage, then answer:\n\n[Software Ownership]\nPeople often buy software without thinking about what “ownership” means. In many cases, users do not own the software itself; they purchase a license to use it under specific rules. A license may limit how many devices can install the program or whether it can be shared. These agreements protect companies’ intellectual property, but they can also confuse customers. Clear communication is important: when users understand license terms, they can avoid legal and technical problems. As software moves to subscription models, reading terms becomes even more important.\n\n2) Which statement is supported by the passage?",
+      "options": [
+        "The passage suggests habits can influence outcomes.",
+        "The passage says habits do not matter.",
+        "The passage claims the topic is fully solved.",
+        "The passage avoids giving any examples."
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ النص عادة يذكر أمثلة/عادات/حلول بسيطة تؤثر فعلاً."
+    },
+    {
+      "id": "R0903",
+      "section": "Reading",
+      "level": "Easy",
+      "prompt": "Read the passage, then answer:\n\n[Software Ownership]\nPeople often buy software without thinking about what “ownership” means. In many cases, users do not own the software itself; they purchase a license to use it under specific rules. A license may limit how many devices can install the program or whether it can be shared. These agreements protect companies’ intellectual property, but they can also confuse customers. Clear communication is important: when users understand license terms, they can avoid legal and technical problems. As software moves to subscription models, reading terms becomes even more important.\n\n3) What can be inferred from the passage?",
+      "options": [
+        "Consistency and planning often improve results.",
+        "Only experts can apply the ideas.",
+        "Practice is unnecessary.",
+        "Change should always be avoided."
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ الاستنتاج الصحيح يطلع من “روح النص”: الاستمرارية + خطة واضحة = نتيجة أفضل."
+    },
+    {
+      "id": "R0904",
+      "section": "Reading",
+      "level": "Hard",
+      "prompt": "Read the passage, then answer:\n\n[Software Ownership]\nPeople often buy software without thinking about what “ownership” means. In many cases, users do not own the software itself; they purchase a license to use it under specific rules. A license may limit how many devices can install the program or whether it can be shared. These agreements protect companies’ intellectual property, but they can also confuse customers. Clear communication is important: when users understand license terms, they can avoid legal and technical problems. As software moves to subscription models, reading terms becomes even more important.\n\n4) In the passage, the word “license” is closest in meaning to:",
+      "options": [
+        "permission",
+        "hardware",
+        "holiday",
+        "mistake"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ سؤال مفردات: اختر المعنى الأقرب حسب السياق."
+    },
+    {
+      "id": "R0905",
+      "section": "Reading",
+      "level": "Hard",
+      "prompt": "Read the passage, then answer:\n\n[Software Ownership]\nPeople often buy software without thinking about what “ownership” means. In many cases, users do not own the software itself; they purchase a license to use it under specific rules. A license may limit how many devices can install the program or whether it can be shared. These agreements protect companies’ intellectual property, but they can also confuse customers. Clear communication is important: when users understand license terms, they can avoid legal and technical problems. As software moves to subscription models, reading terms becomes even more important.\n\n5) The passage would most likely be found in:",
+      "options": [
+        "An education/science article",
+        "A movie script",
+        "A shopping receipt",
+        "A comedy sketch"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ أسلوب النص معلوماتي/تعليمي."
+    },
+    {
+      "id": "R1001",
+      "section": "Reading",
+      "level": "Medium",
+      "prompt": "Read the passage, then answer:\n\n[Exercise and Health]\nAerobic exercise, such as walking or cycling, improves heart and lung function. Even moderate activity can reduce the risk of several diseases. Exercise also supports mental health by reducing anxiety and improving mood. The key is consistency. Many people start with strong motivation, then stop when life becomes busy. A practical plan helps: setting a realistic schedule, choosing enjoyable activities, and tracking progress. Small improvements, repeated weekly, can lead to major changes over time.\n\n1) What is the main idea of the passage?",
+      "options": [
+        "The passage describes entertainment news.",
+        "The passage explains a topic and why it matters.",
+        "The passage lists unrelated facts.",
+        "The passage gives a recipe."
+      ],
+      "answerIndex": 1,
+      "explanation_ar": "✅ الفكرة الرئيسية هي “شرح موضوع + أهميته”، وليس أخبار أو تفاصيل مشتتة."
+    },
+    {
+      "id": "R1002",
+      "section": "Reading",
+      "level": "Medium",
+      "prompt": "Read the passage, then answer:\n\n[Exercise and Health]\nAerobic exercise, such as walking or cycling, improves heart and lung function. Even moderate activity can reduce the risk of several diseases. Exercise also supports mental health by reducing anxiety and improving mood. The key is consistency. Many people start with strong motivation, then stop when life becomes busy. A practical plan helps: setting a realistic schedule, choosing enjoyable activities, and tracking progress. Small improvements, repeated weekly, can lead to major changes over time.\n\n2) Which statement is supported by the passage?",
+      "options": [
+        "The passage suggests habits can influence outcomes.",
+        "The passage says habits do not matter.",
+        "The passage claims the topic is fully solved.",
+        "The passage avoids giving any examples."
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ النص عادة يذكر أمثلة/عادات/حلول بسيطة تؤثر فعلاً."
+    },
+    {
+      "id": "R1003",
+      "section": "Reading",
+      "level": "Medium",
+      "prompt": "Read the passage, then answer:\n\n[Exercise and Health]\nAerobic exercise, such as walking or cycling, improves heart and lung function. Even moderate activity can reduce the risk of several diseases. Exercise also supports mental health by reducing anxiety and improving mood. The key is consistency. Many people start with strong motivation, then stop when life becomes busy. A practical plan helps: setting a realistic schedule, choosing enjoyable activities, and tracking progress. Small improvements, repeated weekly, can lead to major changes over time.\n\n3) What can be inferred from the passage?",
+      "options": [
+        "Consistency and planning often improve results.",
+        "Only experts can apply the ideas.",
+        "Practice is unnecessary.",
+        "Change should always be avoided."
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ الاستنتاج الصحيح يطلع من “روح النص”: الاستمرارية + خطة واضحة = نتيجة أفضل."
+    },
+    {
+      "id": "R1004",
+      "section": "Reading",
+      "level": "Easy",
+      "prompt": "Read the passage, then answer:\n\n[Exercise and Health]\nAerobic exercise, such as walking or cycling, improves heart and lung function. Even moderate activity can reduce the risk of several diseases. Exercise also supports mental health by reducing anxiety and improving mood. The key is consistency. Many people start with strong motivation, then stop when life becomes busy. A practical plan helps: setting a realistic schedule, choosing enjoyable activities, and tracking progress. Small improvements, repeated weekly, can lead to major changes over time.\n\n4) In the passage, the word “practical” is closest in meaning to:",
+      "options": [
+        "useful",
+        "ancient",
+        "fragile",
+        "confusing"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ سؤال مفردات: اختر المعنى الأقرب حسب السياق."
+    },
+    {
+      "id": "R1005",
+      "section": "Reading",
+      "level": "Hard",
+      "prompt": "Read the passage, then answer:\n\n[Exercise and Health]\nAerobic exercise, such as walking or cycling, improves heart and lung function. Even moderate activity can reduce the risk of several diseases. Exercise also supports mental health by reducing anxiety and improving mood. The key is consistency. Many people start with strong motivation, then stop when life becomes busy. A practical plan helps: setting a realistic schedule, choosing enjoyable activities, and tracking progress. Small improvements, repeated weekly, can lead to major changes over time.\n\n5) The passage would most likely be found in:",
+      "options": [
+        "An education/science article",
+        "A movie script",
+        "A shopping receipt",
+        "A comedy sketch"
+      ],
+      "answerIndex": 0,
+      "explanation_ar": "✅ أسلوب النص معلوماتي/تعليمي."
+    }
+  ]
+}
